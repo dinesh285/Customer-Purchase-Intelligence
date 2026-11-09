@@ -1,0 +1,1001 @@
+transaction_id,customer_id,transaction_date,product_id,product_name,category,quantity,unit_price,total_amount,payment_method,city
+T0001,C032,2026-05-21,P002,USB-C Cable,Electronics,1,249,249,Card,Chennai
+T0002,C012,2026-10-07,P002,USB-C Cable,Electronics,2,249,498,Net Banking,Tirupati
+T0003,C065,2026-04-30,P001,Wireless Mouse,Electronics,1,599,599,UPI,Vijayawada
+T0004,C054,2026-10-07,P004,Ball Pen Pack,Stationery,2,55,110,Card,Hyderabad
+T0005,C021,2026-01-04,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Bengaluru
+T0006,C014,2026-06-22,P005,Water Bottle,Lifestyle,1,299,299,UPI,Hyderabad
+T0007,C078,2026-06-26,P002,USB-C Cable,Electronics,1,249,249,Cash,Tirupati
+T0008,C011,2026-07-13,P008,Desk Lamp,Home,1,749,749,Cash,Vijayawada
+T0009,C006,2026-02-05,P006,Backpack,Lifestyle,2,899,1798,Card,Bengaluru
+T0010,C049,2026-02-21,P002,USB-C Cable,Electronics,3,249,747,Cash,Hyderabad
+T0011,C027,2026-07-01,P006,Backpack,Lifestyle,1,899,899,Cash,Tirupati
+T0012,C032,2026-10-01,P010,Sticky Notes,Stationery,2,99,198,Card,Hyderabad
+T0013,C029,2026-10-13,P007,Coffee Mug,Home,1,199,199,Cash,Tirupati
+T0014,C052,2026-06-11,P004,Ball Pen Pack,Stationery,2,55,110,Cash,Tirupati
+T0015,C041,2026-10-18,P004,Ball Pen Pack,Stationery,3,55,165,Card,Hyderabad
+T0016,C019,2026-08-23,P007,Coffee Mug,Home,3,199,597,Cash,Chennai
+T0017,C034,2026-10-03,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Vijayawada
+T0018,C066,2026-03-12,P007,Coffee Mug,Home,1,199,199,Net Banking,Tirupati
+T0019,C021,2026-03-20,P001,Wireless Mouse,Electronics,3,599,1797,Net Banking,Vijayawada
+T0020,C068,2026-08-28,P002,USB-C Cable,Electronics,1,249,249,Cash,Vijayawada
+T0021,C069,2026-02-28,P001,Wireless Mouse,Electronics,2,599,1198,Cash,Bengaluru
+T0022,C059,2026-03-22,P002,USB-C Cable,Electronics,1,249,249,UPI,Bengaluru
+T0023,C014,2026-09-17,P009,Headphones,Electronics,2,1299,2598,Cash,Vijayawada
+T0024,C021,2026-07-11,P010,Sticky Notes,Stationery,1,99,99,UPI,Vijayawada
+T0025,C047,2026-02-27,P006,Backpack,Lifestyle,1,899,899,Cash,Chennai
+T0026,C011,2026-10-18,P001,Wireless Mouse,Electronics,1,599,599,UPI,Hyderabad
+T0027,C017,2026-09-30,P002,USB-C Cable,Electronics,4,249,996,Card,Hyderabad
+T0028,C078,2026-09-28,P009,Headphones,Electronics,1,1299,1299,Net Banking,Chennai
+T0029,C040,2026-04-13,P009,Headphones,Electronics,2,1299,2598,Net Banking,Bengaluru
+T0030,C016,2026-08-20,P008,Desk Lamp,Home,3,749,2247,Card,Chennai
+T0031,C030,2026-10-11,P002,USB-C Cable,Electronics,1,249,249,Card,Tirupati
+T0032,C030,2026-01-31,P002,USB-C Cable,Electronics,2,249,498,UPI,Tirupati
+T0033,C036,2026-05-02,P006,Backpack,Lifestyle,1,899,899,Net Banking,Chennai
+T0034,C074,2026-10-20,P009,Headphones,Electronics,1,1299,1299,Net Banking,Chennai
+T0035,C013,2026-04-08,P008,Desk Lamp,Home,2,749,1498,UPI,Hyderabad
+T0036,C007,2026-08-28,P006,Backpack,Lifestyle,1,899,899,UPI,Tirupati
+T0037,C032,2026-02-25,P007,Coffee Mug,Home,2,199,398,Card,Chennai
+T0038,C024,2026-08-05,P009,Headphones,Electronics,1,1299,1299,Cash,Hyderabad
+T0039,C057,2026-02-08,P004,Ball Pen Pack,Stationery,3,55,165,UPI,Tirupati
+T0040,C031,2026-02-17,P009,Headphones,Electronics,3,1299,3897,Card,Hyderabad
+T0041,C008,2026-07-25,P008,Desk Lamp,Home,1,749,749,Card,Hyderabad
+T0042,C059,2026-05-16,P001,Wireless Mouse,Electronics,4,599,2396,Cash,Hyderabad
+T0043,C020,2026-09-07,P009,Headphones,Electronics,2,1299,2598,Card,Bengaluru
+T0044,C070,2026-10-24,P004,Ball Pen Pack,Stationery,4,55,220,UPI,Bengaluru
+T0045,C065,2026-09-02,P001,Wireless Mouse,Electronics,1,599,599,Card,Tirupati
+T0046,C009,2026-04-06,P009,Headphones,Electronics,1,1299,1299,UPI,Chennai
+T0047,C032,2026-10-19,P007,Coffee Mug,Home,1,199,199,UPI,Vijayawada
+T0048,C073,2026-10-26,P002,USB-C Cable,Electronics,1,249,249,Cash,Bengaluru
+T0049,C031,2026-06-10,P004,Ball Pen Pack,Stationery,2,55,110,Cash,Hyderabad
+T0050,C059,2026-06-03,P003,Notebook,Stationery,2,79,158,Cash,Tirupati
+T0051,C013,2026-10-16,P001,Wireless Mouse,Electronics,1,599,599,UPI,Vijayawada
+T0052,C045,2026-03-09,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Chennai
+T0053,C070,2026-08-13,P006,Backpack,Lifestyle,1,899,899,Cash,Vijayawada
+T0054,C039,2026-10-11,P009,Headphones,Electronics,1,1299,1299,UPI,Chennai
+T0055,C071,2026-02-24,P005,Water Bottle,Lifestyle,1,299,299,Card,Bengaluru
+T0056,C027,2026-06-25,P005,Water Bottle,Lifestyle,2,299,598,Cash,Vijayawada
+T0057,C012,2026-01-27,P008,Desk Lamp,Home,1,749,749,Net Banking,Bengaluru
+T0058,C034,2026-03-08,P001,Wireless Mouse,Electronics,1,599,599,Card,Hyderabad
+T0059,C002,2026-10-15,P009,Headphones,Electronics,2,1299,2598,UPI,Tirupati
+T0060,C075,2026-07-09,P003,Notebook,Stationery,1,79,79,Card,Hyderabad
+T0061,C006,2026-07-06,P003,Notebook,Stationery,1,79,79,Cash,Chennai
+T0062,C072,2026-07-01,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Vijayawada
+T0063,C021,2026-05-02,P003,Notebook,Stationery,3,79,237,Card,Hyderabad
+T0064,C053,2026-06-20,P001,Wireless Mouse,Electronics,1,599,599,Card,Bengaluru
+T0065,C049,2026-02-25,P003,Notebook,Stationery,2,79,158,UPI,Hyderabad
+T0066,C045,2026-08-24,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Chennai
+T0067,C052,2026-04-09,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Bengaluru
+T0068,C045,2026-05-23,P002,USB-C Cable,Electronics,4,249,996,Net Banking,Vijayawada
+T0069,C034,2026-03-01,P006,Backpack,Lifestyle,3,899,2697,Card,Vijayawada
+T0070,C045,2026-08-11,P005,Water Bottle,Lifestyle,1,299,299,Cash,Hyderabad
+T0071,C050,2026-03-01,P010,Sticky Notes,Stationery,4,99,396,Card,Bengaluru
+T0072,C067,2026-01-01,P001,Wireless Mouse,Electronics,2,599,1198,Card,Bengaluru
+T0073,C080,2026-06-19,P007,Coffee Mug,Home,1,199,199,Cash,Tirupati
+T0074,C042,2026-07-29,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Bengaluru
+T0075,C049,2026-08-04,P009,Headphones,Electronics,1,1299,1299,Card,Vijayawada
+T0076,C001,2026-10-08,P010,Sticky Notes,Stationery,1,99,99,Cash,Bengaluru
+T0077,C078,2026-10-24,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Hyderabad
+T0078,C066,2026-04-20,P008,Desk Lamp,Home,1,749,749,Net Banking,Chennai
+T0079,C012,2026-06-21,P002,USB-C Cable,Electronics,1,249,249,Card,Bengaluru
+T0080,C004,2026-03-17,P004,Ball Pen Pack,Stationery,2,55,110,UPI,Chennai
+T0081,C059,2026-02-07,P008,Desk Lamp,Home,2,749,1498,Net Banking,Vijayawada
+T0082,C064,2026-07-16,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Chennai
+T0083,C014,2026-01-03,P003,Notebook,Stationery,2,79,158,Net Banking,Chennai
+T0084,C060,2026-09-23,P003,Notebook,Stationery,2,79,158,UPI,Vijayawada
+T0085,C059,2026-03-04,P004,Ball Pen Pack,Stationery,3,55,165,Card,Hyderabad
+T0086,C057,2026-06-12,P009,Headphones,Electronics,4,1299,5196,Net Banking,Vijayawada
+T0087,C058,2026-09-01,P008,Desk Lamp,Home,3,749,2247,Cash,Chennai
+T0088,C063,2026-09-24,P005,Water Bottle,Lifestyle,2,299,598,Card,Bengaluru
+T0089,C031,2026-05-27,P008,Desk Lamp,Home,1,749,749,Cash,Bengaluru
+T0090,C018,2026-02-11,P006,Backpack,Lifestyle,3,899,2697,Card,Chennai
+T0091,C009,2026-04-20,P007,Coffee Mug,Home,2,199,398,Net Banking,Hyderabad
+T0092,C008,2026-08-01,P006,Backpack,Lifestyle,1,899,899,Card,Hyderabad
+T0093,C003,2026-10-27,P007,Coffee Mug,Home,3,199,597,Net Banking,Hyderabad
+T0094,C050,2026-06-02,P001,Wireless Mouse,Electronics,3,599,1797,Net Banking,Vijayawada
+T0095,C063,2026-04-23,P009,Headphones,Electronics,2,1299,2598,Card,Bengaluru
+T0096,C044,2026-07-19,P007,Coffee Mug,Home,1,199,199,Net Banking,Chennai
+T0097,C004,2026-10-01,P008,Desk Lamp,Home,3,749,2247,Net Banking,Vijayawada
+T0098,C055,2026-02-12,P010,Sticky Notes,Stationery,2,99,198,Card,Hyderabad
+T0099,C042,2026-07-14,P003,Notebook,Stationery,1,79,79,Card,Hyderabad
+T0100,C036,2026-07-14,P006,Backpack,Lifestyle,1,899,899,Net Banking,Bengaluru
+T0101,C007,2026-10-04,P002,USB-C Cable,Electronics,1,249,249,Cash,Chennai
+T0102,C004,2026-01-21,P002,USB-C Cable,Electronics,2,249,498,Card,Chennai
+T0103,C017,2026-05-03,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Tirupati
+T0104,C033,2026-08-27,P010,Sticky Notes,Stationery,3,99,297,Cash,Chennai
+T0105,C021,2026-02-28,P010,Sticky Notes,Stationery,2,99,198,Cash,Tirupati
+T0106,C074,2026-06-09,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Hyderabad
+T0107,C014,2026-05-05,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Vijayawada
+T0108,C006,2026-10-17,P002,USB-C Cable,Electronics,2,249,498,Cash,Vijayawada
+T0109,C065,2026-02-05,P007,Coffee Mug,Home,2,199,398,Cash,Tirupati
+T0110,C056,2026-02-24,P007,Coffee Mug,Home,2,199,398,Cash,Hyderabad
+T0111,C035,2026-09-25,P003,Notebook,Stationery,1,79,79,Net Banking,Hyderabad
+T0112,C042,2026-05-18,P007,Coffee Mug,Home,2,199,398,Card,Tirupati
+T0113,C060,2026-05-05,P005,Water Bottle,Lifestyle,3,299,897,Net Banking,Bengaluru
+T0114,C024,2026-06-16,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Chennai
+T0115,C036,2026-06-24,P006,Backpack,Lifestyle,2,899,1798,Cash,Vijayawada
+T0116,C011,2026-04-08,P001,Wireless Mouse,Electronics,1,599,599,Card,Hyderabad
+T0117,C061,2026-05-04,P008,Desk Lamp,Home,2,749,1498,Net Banking,Hyderabad
+T0118,C052,2026-04-24,P001,Wireless Mouse,Electronics,1,599,599,Card,Bengaluru
+T0119,C068,2026-10-11,P010,Sticky Notes,Stationery,1,99,99,Cash,Hyderabad
+T0120,C035,2026-08-21,P009,Headphones,Electronics,1,1299,1299,Cash,Bengaluru
+T0121,C041,2026-04-09,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Vijayawada
+T0122,C036,2026-09-05,P003,Notebook,Stationery,1,79,79,Cash,Tirupati
+T0123,C023,2026-07-04,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Tirupati
+T0124,C007,2026-01-24,P009,Headphones,Electronics,1,1299,1299,Cash,Chennai
+T0125,C074,2026-01-07,P008,Desk Lamp,Home,1,749,749,Cash,Hyderabad
+T0126,C007,2026-04-05,P008,Desk Lamp,Home,1,749,749,Cash,Hyderabad
+T0127,C063,2026-07-25,P002,USB-C Cable,Electronics,2,249,498,UPI,Vijayawada
+T0128,C039,2026-10-16,P001,Wireless Mouse,Electronics,1,599,599,UPI,Chennai
+T0129,C078,2026-08-02,P002,USB-C Cable,Electronics,2,249,498,Card,Vijayawada
+T0130,C039,2026-08-15,P007,Coffee Mug,Home,1,199,199,Net Banking,Bengaluru
+T0131,C027,2026-02-20,P010,Sticky Notes,Stationery,2,99,198,Card,Bengaluru
+T0132,C071,2026-03-30,P002,USB-C Cable,Electronics,1,249,249,UPI,Chennai
+T0133,C038,2026-08-29,P001,Wireless Mouse,Electronics,1,599,599,UPI,Chennai
+T0134,C010,2026-08-21,P005,Water Bottle,Lifestyle,2,299,598,Card,Bengaluru
+T0135,C055,2026-04-12,P010,Sticky Notes,Stationery,2,99,198,UPI,Vijayawada
+T0136,C019,2026-05-17,P004,Ball Pen Pack,Stationery,2,55,110,UPI,Tirupati
+T0137,C037,2026-10-19,P003,Notebook,Stationery,2,79,158,Net Banking,Tirupati
+T0138,C035,2026-07-26,P008,Desk Lamp,Home,2,749,1498,Net Banking,Hyderabad
+T0139,C042,2026-08-10,P002,USB-C Cable,Electronics,2,249,498,Cash,Tirupati
+T0140,C076,2026-10-22,P002,USB-C Cable,Electronics,1,249,249,UPI,Bengaluru
+T0141,C061,2026-03-31,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Bengaluru
+T0142,C063,2026-08-12,P003,Notebook,Stationery,4,79,316,UPI,Hyderabad
+T0143,C014,2026-06-14,P006,Backpack,Lifestyle,1,899,899,Card,Bengaluru
+T0144,C052,2026-05-28,P007,Coffee Mug,Home,2,199,398,UPI,Hyderabad
+T0145,C015,2026-06-15,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Vijayawada
+T0146,C060,2026-10-05,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Tirupati
+T0147,C057,2026-09-13,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Chennai
+T0148,C057,2026-05-28,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Tirupati
+T0149,C021,2026-05-03,P001,Wireless Mouse,Electronics,4,599,2396,Cash,Vijayawada
+T0150,C029,2026-02-17,P001,Wireless Mouse,Electronics,2,599,1198,UPI,Hyderabad
+T0151,C064,2026-03-20,P002,USB-C Cable,Electronics,2,249,498,Cash,Vijayawada
+T0152,C061,2026-09-05,P005,Water Bottle,Lifestyle,1,299,299,Card,Hyderabad
+T0153,C077,2026-04-08,P009,Headphones,Electronics,1,1299,1299,Card,Tirupati
+T0154,C044,2026-08-01,P005,Water Bottle,Lifestyle,2,299,598,Cash,Tirupati
+T0155,C063,2026-10-24,P005,Water Bottle,Lifestyle,2,299,598,Card,Hyderabad
+T0156,C071,2026-06-20,P009,Headphones,Electronics,1,1299,1299,Net Banking,Hyderabad
+T0157,C074,2026-05-03,P006,Backpack,Lifestyle,3,899,2697,Net Banking,Chennai
+T0158,C049,2026-08-31,P007,Coffee Mug,Home,1,199,199,Net Banking,Chennai
+T0159,C065,2026-03-06,P008,Desk Lamp,Home,4,749,2996,Cash,Tirupati
+T0160,C002,2026-08-22,P008,Desk Lamp,Home,1,749,749,Card,Hyderabad
+T0161,C044,2026-05-16,P003,Notebook,Stationery,1,79,79,Net Banking,Tirupati
+T0162,C049,2026-10-01,P006,Backpack,Lifestyle,3,899,2697,Cash,Hyderabad
+T0163,C031,2026-02-05,P009,Headphones,Electronics,1,1299,1299,Cash,Chennai
+T0164,C013,2026-02-20,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Chennai
+T0165,C042,2026-01-24,P005,Water Bottle,Lifestyle,3,299,897,UPI,Bengaluru
+T0166,C032,2026-03-16,P006,Backpack,Lifestyle,1,899,899,Net Banking,Vijayawada
+T0167,C079,2026-02-10,P003,Notebook,Stationery,1,79,79,Net Banking,Vijayawada
+T0168,C019,2026-10-26,P004,Ball Pen Pack,Stationery,1,55,55,Card,Hyderabad
+T0169,C060,2026-01-05,P005,Water Bottle,Lifestyle,1,299,299,Cash,Vijayawada
+T0170,C076,2026-06-26,P003,Notebook,Stationery,1,79,79,Cash,Hyderabad
+T0171,C026,2026-06-04,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Hyderabad
+T0172,C046,2026-10-20,P002,USB-C Cable,Electronics,1,249,249,Cash,Bengaluru
+T0173,C036,2026-07-22,P001,Wireless Mouse,Electronics,4,599,2396,UPI,Vijayawada
+T0174,C037,2026-09-12,P001,Wireless Mouse,Electronics,3,599,1797,Card,Vijayawada
+T0175,C080,2026-04-08,P006,Backpack,Lifestyle,1,899,899,Cash,Chennai
+T0176,C040,2026-01-21,P002,USB-C Cable,Electronics,3,249,747,Net Banking,Tirupati
+T0177,C012,2026-03-09,P010,Sticky Notes,Stationery,1,99,99,Cash,Bengaluru
+T0178,C070,2026-03-09,P007,Coffee Mug,Home,1,199,199,Cash,Vijayawada
+T0179,C033,2026-03-26,P009,Headphones,Electronics,3,1299,3897,Net Banking,Bengaluru
+T0180,C010,2026-08-28,P006,Backpack,Lifestyle,2,899,1798,Card,Chennai
+T0181,C047,2026-10-13,P007,Coffee Mug,Home,4,199,796,UPI,Hyderabad
+T0182,C059,2026-03-05,P001,Wireless Mouse,Electronics,1,599,599,Cash,Bengaluru
+T0183,C014,2026-07-10,P010,Sticky Notes,Stationery,1,99,99,Card,Hyderabad
+T0184,C042,2026-10-15,P001,Wireless Mouse,Electronics,2,599,1198,Card,Tirupati
+T0185,C053,2026-06-04,P008,Desk Lamp,Home,3,749,2247,UPI,Chennai
+T0186,C064,2026-06-05,P001,Wireless Mouse,Electronics,3,599,1797,UPI,Tirupati
+T0187,C050,2026-03-11,P004,Ball Pen Pack,Stationery,3,55,165,Net Banking,Bengaluru
+T0188,C054,2026-03-21,P009,Headphones,Electronics,1,1299,1299,UPI,Hyderabad
+T0189,C005,2026-05-24,P010,Sticky Notes,Stationery,1,99,99,Cash,Chennai
+T0190,C047,2026-05-01,P008,Desk Lamp,Home,1,749,749,UPI,Bengaluru
+T0191,C008,2026-07-03,P009,Headphones,Electronics,3,1299,3897,Net Banking,Bengaluru
+T0192,C012,2026-08-21,P004,Ball Pen Pack,Stationery,4,55,220,Card,Vijayawada
+T0193,C032,2026-06-20,P001,Wireless Mouse,Electronics,1,599,599,Card,Vijayawada
+T0194,C027,2026-10-11,P004,Ball Pen Pack,Stationery,1,55,55,Card,Chennai
+T0195,C036,2026-01-02,P006,Backpack,Lifestyle,2,899,1798,Card,Chennai
+T0196,C015,2026-03-31,P009,Headphones,Electronics,1,1299,1299,UPI,Chennai
+T0197,C076,2026-05-02,P001,Wireless Mouse,Electronics,1,599,599,Cash,Tirupati
+T0198,C054,2026-03-06,P003,Notebook,Stationery,1,79,79,UPI,Tirupati
+T0199,C066,2026-07-05,P008,Desk Lamp,Home,1,749,749,UPI,Hyderabad
+T0200,C067,2026-01-23,P009,Headphones,Electronics,1,1299,1299,Cash,Hyderabad
+T0201,C052,2026-09-03,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Tirupati
+T0202,C010,2026-08-16,P008,Desk Lamp,Home,2,749,1498,UPI,Bengaluru
+T0203,C036,2026-03-06,P010,Sticky Notes,Stationery,1,99,99,Cash,Hyderabad
+T0204,C065,2026-08-21,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Tirupati
+T0205,C028,2026-10-10,P002,USB-C Cable,Electronics,3,249,747,Net Banking,Hyderabad
+T0206,C052,2026-08-21,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Tirupati
+T0207,C048,2026-05-11,P006,Backpack,Lifestyle,1,899,899,Card,Hyderabad
+T0208,C012,2026-02-13,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Tirupati
+T0209,C008,2026-10-12,P006,Backpack,Lifestyle,2,899,1798,Cash,Tirupati
+T0210,C007,2026-08-05,P007,Coffee Mug,Home,1,199,199,Cash,Vijayawada
+T0211,C065,2026-10-23,P005,Water Bottle,Lifestyle,1,299,299,Card,Chennai
+T0212,C045,2026-02-25,P008,Desk Lamp,Home,1,749,749,Cash,Tirupati
+T0213,C072,2026-08-08,P005,Water Bottle,Lifestyle,2,299,598,UPI,Vijayawada
+T0214,C040,2026-05-20,P005,Water Bottle,Lifestyle,1,299,299,Cash,Bengaluru
+T0215,C073,2026-03-15,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Tirupati
+T0216,C012,2026-01-16,P003,Notebook,Stationery,2,79,158,Card,Hyderabad
+T0217,C048,2026-03-22,P007,Coffee Mug,Home,1,199,199,Cash,Bengaluru
+T0218,C020,2026-01-27,P010,Sticky Notes,Stationery,2,99,198,Card,Vijayawada
+T0219,C057,2026-05-20,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Hyderabad
+T0220,C028,2026-05-20,P010,Sticky Notes,Stationery,1,99,99,UPI,Bengaluru
+T0221,C068,2026-09-07,P007,Coffee Mug,Home,1,199,199,Cash,Tirupati
+T0222,C001,2026-01-29,P004,Ball Pen Pack,Stationery,1,55,55,Card,Bengaluru
+T0223,C038,2026-05-11,P004,Ball Pen Pack,Stationery,2,55,110,Cash,Tirupati
+T0224,C023,2026-08-09,P001,Wireless Mouse,Electronics,1,599,599,Card,Hyderabad
+T0225,C072,2026-09-14,P009,Headphones,Electronics,2,1299,2598,Cash,Tirupati
+T0226,C056,2026-01-22,P007,Coffee Mug,Home,3,199,597,UPI,Hyderabad
+T0227,C055,2026-10-22,P002,USB-C Cable,Electronics,3,249,747,Net Banking,Hyderabad
+T0228,C042,2026-01-11,P005,Water Bottle,Lifestyle,1,299,299,Card,Vijayawada
+T0229,C012,2026-07-05,P008,Desk Lamp,Home,3,749,2247,Net Banking,Tirupati
+T0230,C068,2026-07-25,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Hyderabad
+T0231,C043,2026-04-24,P005,Water Bottle,Lifestyle,2,299,598,Card,Tirupati
+T0232,C066,2026-09-29,P009,Headphones,Electronics,2,1299,2598,Card,Bengaluru
+T0233,C031,2026-03-17,P006,Backpack,Lifestyle,2,899,1798,UPI,Chennai
+T0234,C010,2026-03-20,P005,Water Bottle,Lifestyle,1,299,299,Card,Hyderabad
+T0235,C058,2026-10-24,P008,Desk Lamp,Home,2,749,1498,Cash,Bengaluru
+T0236,C057,2026-08-29,P003,Notebook,Stationery,1,79,79,Cash,Bengaluru
+T0237,C010,2026-09-17,P010,Sticky Notes,Stationery,1,99,99,Cash,Hyderabad
+T0238,C037,2026-07-08,P008,Desk Lamp,Home,1,749,749,UPI,Tirupati
+T0239,C060,2026-07-16,P010,Sticky Notes,Stationery,2,99,198,UPI,Hyderabad
+T0240,C078,2026-06-14,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Vijayawada
+T0241,C014,2026-08-19,P003,Notebook,Stationery,4,79,316,Cash,Tirupati
+T0242,C032,2026-01-21,P009,Headphones,Electronics,2,1299,2598,Net Banking,Hyderabad
+T0243,C047,2026-03-23,P009,Headphones,Electronics,1,1299,1299,Cash,Bengaluru
+T0244,C077,2026-06-23,P007,Coffee Mug,Home,1,199,199,UPI,Bengaluru
+T0245,C050,2026-10-13,P002,USB-C Cable,Electronics,1,249,249,Cash,Bengaluru
+T0246,C011,2026-06-20,P010,Sticky Notes,Stationery,3,99,297,Card,Bengaluru
+T0247,C017,2026-07-20,P005,Water Bottle,Lifestyle,4,299,1196,UPI,Bengaluru
+T0248,C017,2026-06-18,P009,Headphones,Electronics,1,1299,1299,UPI,Hyderabad
+T0249,C040,2026-07-05,P009,Headphones,Electronics,1,1299,1299,Card,Chennai
+T0250,C025,2026-09-06,P006,Backpack,Lifestyle,3,899,2697,Card,Chennai
+T0251,C065,2026-02-21,P003,Notebook,Stationery,1,79,79,UPI,Bengaluru
+T0252,C020,2026-07-12,P010,Sticky Notes,Stationery,1,99,99,Card,Chennai
+T0253,C057,2026-03-26,P010,Sticky Notes,Stationery,2,99,198,UPI,Hyderabad
+T0254,C057,2026-05-02,P006,Backpack,Lifestyle,2,899,1798,Cash,Hyderabad
+T0255,C061,2026-06-08,P004,Ball Pen Pack,Stationery,1,55,55,Card,Bengaluru
+T0256,C037,2026-08-25,P010,Sticky Notes,Stationery,4,99,396,Net Banking,Vijayawada
+T0257,C026,2026-03-24,P009,Headphones,Electronics,1,1299,1299,Card,Bengaluru
+T0258,C071,2026-07-10,P001,Wireless Mouse,Electronics,2,599,1198,UPI,Vijayawada
+T0259,C035,2026-03-24,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Vijayawada
+T0260,C029,2026-02-16,P003,Notebook,Stationery,3,79,237,Net Banking,Bengaluru
+T0261,C065,2026-07-22,P001,Wireless Mouse,Electronics,1,599,599,Cash,Chennai
+T0262,C029,2026-07-11,P007,Coffee Mug,Home,4,199,796,UPI,Bengaluru
+T0263,C019,2026-06-21,P002,USB-C Cable,Electronics,3,249,747,Card,Tirupati
+T0264,C018,2026-08-30,P005,Water Bottle,Lifestyle,3,299,897,Net Banking,Hyderabad
+T0265,C003,2026-02-10,P010,Sticky Notes,Stationery,1,99,99,Cash,Chennai
+T0266,C055,2026-09-28,P003,Notebook,Stationery,1,79,79,UPI,Bengaluru
+T0267,C031,2026-01-25,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Vijayawada
+T0268,C077,2026-09-13,P008,Desk Lamp,Home,1,749,749,UPI,Vijayawada
+T0269,C038,2026-03-15,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Tirupati
+T0270,C054,2026-10-20,P010,Sticky Notes,Stationery,1,99,99,Card,Tirupati
+T0271,C068,2026-02-04,P009,Headphones,Electronics,4,1299,5196,UPI,Hyderabad
+T0272,C048,2026-07-18,P008,Desk Lamp,Home,1,749,749,Cash,Tirupati
+T0273,C031,2026-06-26,P006,Backpack,Lifestyle,2,899,1798,UPI,Vijayawada
+T0274,C070,2026-06-30,P006,Backpack,Lifestyle,1,899,899,Cash,Chennai
+T0275,C024,2026-09-03,P008,Desk Lamp,Home,4,749,2996,Card,Tirupati
+T0276,C006,2026-04-14,P008,Desk Lamp,Home,1,749,749,Card,Tirupati
+T0277,C051,2026-09-21,P006,Backpack,Lifestyle,3,899,2697,Net Banking,Bengaluru
+T0278,C037,2026-04-08,P001,Wireless Mouse,Electronics,2,599,1198,Cash,Tirupati
+T0279,C056,2026-07-08,P006,Backpack,Lifestyle,1,899,899,Net Banking,Hyderabad
+T0280,C064,2026-04-06,P007,Coffee Mug,Home,1,199,199,Net Banking,Bengaluru
+T0281,C055,2026-02-12,P009,Headphones,Electronics,1,1299,1299,UPI,Hyderabad
+T0282,C070,2026-04-03,P010,Sticky Notes,Stationery,4,99,396,Cash,Bengaluru
+T0283,C040,2026-06-01,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Vijayawada
+T0284,C045,2026-08-16,P007,Coffee Mug,Home,1,199,199,Net Banking,Tirupati
+T0285,C036,2026-08-11,P006,Backpack,Lifestyle,2,899,1798,UPI,Tirupati
+T0286,C004,2026-03-23,P007,Coffee Mug,Home,1,199,199,Card,Vijayawada
+T0287,C031,2026-02-04,P008,Desk Lamp,Home,1,749,749,Cash,Bengaluru
+T0288,C078,2026-01-17,P007,Coffee Mug,Home,3,199,597,Card,Hyderabad
+T0289,C074,2026-02-09,P006,Backpack,Lifestyle,1,899,899,Card,Vijayawada
+T0290,C032,2026-05-23,P006,Backpack,Lifestyle,1,899,899,UPI,Tirupati
+T0291,C072,2026-07-18,P003,Notebook,Stationery,1,79,79,UPI,Bengaluru
+T0292,C079,2026-04-20,P005,Water Bottle,Lifestyle,2,299,598,Cash,Hyderabad
+T0293,C058,2026-02-07,P004,Ball Pen Pack,Stationery,1,55,55,Card,Hyderabad
+T0294,C045,2026-06-13,P002,USB-C Cable,Electronics,2,249,498,UPI,Vijayawada
+T0295,C021,2026-06-03,P009,Headphones,Electronics,1,1299,1299,Card,Bengaluru
+T0296,C018,2026-04-13,P009,Headphones,Electronics,1,1299,1299,Card,Hyderabad
+T0297,C048,2026-10-21,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Vijayawada
+T0298,C009,2026-02-14,P003,Notebook,Stationery,2,79,158,Cash,Hyderabad
+T0299,C074,2026-07-29,P008,Desk Lamp,Home,1,749,749,UPI,Chennai
+T0300,C060,2026-08-19,P006,Backpack,Lifestyle,2,899,1798,Cash,Chennai
+T0301,C017,2026-04-04,P009,Headphones,Electronics,2,1299,2598,Net Banking,Vijayawada
+T0302,C020,2026-09-23,P001,Wireless Mouse,Electronics,3,599,1797,Cash,Chennai
+T0303,C045,2026-04-26,P003,Notebook,Stationery,1,79,79,Cash,Tirupati
+T0304,C036,2026-10-10,P005,Water Bottle,Lifestyle,1,299,299,Card,Bengaluru
+T0305,C022,2026-09-15,P010,Sticky Notes,Stationery,1,99,99,Card,Chennai
+T0306,C073,2026-06-22,P010,Sticky Notes,Stationery,2,99,198,UPI,Tirupati
+T0307,C034,2026-10-23,P002,USB-C Cable,Electronics,1,249,249,Card,Vijayawada
+T0308,C064,2026-01-16,P007,Coffee Mug,Home,2,199,398,Cash,Bengaluru
+T0309,C039,2026-07-27,P008,Desk Lamp,Home,1,749,749,Net Banking,Tirupati
+T0310,C062,2026-08-01,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Chennai
+T0311,C041,2026-06-10,P006,Backpack,Lifestyle,2,899,1798,Cash,Hyderabad
+T0312,C072,2026-09-21,P003,Notebook,Stationery,2,79,158,UPI,Bengaluru
+T0313,C058,2026-05-17,P004,Ball Pen Pack,Stationery,1,55,55,Card,Chennai
+T0314,C079,2026-07-16,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Chennai
+T0315,C041,2026-10-23,P003,Notebook,Stationery,2,79,158,Card,Chennai
+T0316,C064,2026-08-28,P008,Desk Lamp,Home,4,749,2996,Cash,Hyderabad
+T0317,C065,2026-07-21,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Chennai
+T0318,C007,2026-01-25,P004,Ball Pen Pack,Stationery,2,55,110,Cash,Hyderabad
+T0319,C037,2026-08-29,P010,Sticky Notes,Stationery,3,99,297,UPI,Tirupati
+T0320,C047,2026-05-16,P007,Coffee Mug,Home,1,199,199,Net Banking,Bengaluru
+T0321,C072,2026-10-19,P001,Wireless Mouse,Electronics,1,599,599,Card,Bengaluru
+T0322,C065,2026-07-17,P009,Headphones,Electronics,1,1299,1299,Net Banking,Vijayawada
+T0323,C017,2026-03-02,P005,Water Bottle,Lifestyle,2,299,598,UPI,Hyderabad
+T0324,C072,2026-06-23,P006,Backpack,Lifestyle,2,899,1798,Cash,Chennai
+T0325,C065,2026-07-25,P004,Ball Pen Pack,Stationery,2,55,110,UPI,Tirupati
+T0326,C061,2026-06-20,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Chennai
+T0327,C042,2026-03-13,P010,Sticky Notes,Stationery,3,99,297,Cash,Chennai
+T0328,C076,2026-06-03,P007,Coffee Mug,Home,4,199,796,Cash,Vijayawada
+T0329,C039,2026-10-16,P009,Headphones,Electronics,1,1299,1299,Net Banking,Tirupati
+T0330,C054,2026-02-26,P006,Backpack,Lifestyle,1,899,899,Cash,Tirupati
+T0331,C074,2026-10-24,P010,Sticky Notes,Stationery,1,99,99,Card,Tirupati
+T0332,C080,2026-09-26,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Chennai
+T0333,C025,2026-02-26,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Hyderabad
+T0334,C027,2026-07-31,P006,Backpack,Lifestyle,1,899,899,Net Banking,Vijayawada
+T0335,C018,2026-02-01,P010,Sticky Notes,Stationery,3,99,297,Card,Vijayawada
+T0336,C068,2026-09-02,P006,Backpack,Lifestyle,4,899,3596,Net Banking,Bengaluru
+T0337,C044,2026-09-30,P003,Notebook,Stationery,1,79,79,Cash,Bengaluru
+T0338,C036,2026-05-07,P010,Sticky Notes,Stationery,1,99,99,Cash,Chennai
+T0339,C063,2026-04-17,P005,Water Bottle,Lifestyle,2,299,598,Cash,Hyderabad
+T0340,C037,2026-05-21,P006,Backpack,Lifestyle,2,899,1798,UPI,Vijayawada
+T0341,C045,2026-07-22,P009,Headphones,Electronics,1,1299,1299,Card,Bengaluru
+T0342,C045,2026-02-10,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Bengaluru
+T0343,C035,2026-10-03,P008,Desk Lamp,Home,1,749,749,Cash,Chennai
+T0344,C032,2026-05-03,P002,USB-C Cable,Electronics,2,249,498,UPI,Vijayawada
+T0345,C013,2026-01-27,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Bengaluru
+T0346,C001,2026-03-12,P008,Desk Lamp,Home,1,749,749,Card,Hyderabad
+T0347,C037,2026-04-13,P008,Desk Lamp,Home,1,749,749,Cash,Bengaluru
+T0348,C074,2026-02-15,P001,Wireless Mouse,Electronics,3,599,1797,Card,Vijayawada
+T0349,C054,2026-03-31,P001,Wireless Mouse,Electronics,3,599,1797,Card,Tirupati
+T0350,C038,2026-04-06,P007,Coffee Mug,Home,2,199,398,UPI,Tirupati
+T0351,C043,2026-02-24,P005,Water Bottle,Lifestyle,2,299,598,Cash,Hyderabad
+T0352,C065,2026-03-10,P009,Headphones,Electronics,1,1299,1299,Net Banking,Bengaluru
+T0353,C021,2026-06-19,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Bengaluru
+T0354,C038,2026-06-22,P003,Notebook,Stationery,1,79,79,Card,Chennai
+T0355,C055,2026-07-27,P010,Sticky Notes,Stationery,3,99,297,Cash,Tirupati
+T0356,C018,2026-04-05,P007,Coffee Mug,Home,2,199,398,Net Banking,Bengaluru
+T0357,C031,2026-07-16,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Bengaluru
+T0358,C002,2026-10-21,P006,Backpack,Lifestyle,1,899,899,Cash,Bengaluru
+T0359,C060,2026-03-02,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Chennai
+T0360,C016,2026-06-09,P007,Coffee Mug,Home,2,199,398,Cash,Bengaluru
+T0361,C062,2026-03-10,P010,Sticky Notes,Stationery,1,99,99,Card,Hyderabad
+T0362,C061,2026-10-09,P010,Sticky Notes,Stationery,1,99,99,Card,Chennai
+T0363,C068,2026-02-11,P010,Sticky Notes,Stationery,3,99,297,Net Banking,Vijayawada
+T0364,C015,2026-10-16,P006,Backpack,Lifestyle,1,899,899,UPI,Vijayawada
+T0365,C020,2026-10-02,P009,Headphones,Electronics,1,1299,1299,Card,Bengaluru
+T0366,C075,2026-04-16,P009,Headphones,Electronics,1,1299,1299,Net Banking,Tirupati
+T0367,C059,2026-01-29,P009,Headphones,Electronics,1,1299,1299,Card,Vijayawada
+T0368,C072,2026-01-30,P007,Coffee Mug,Home,1,199,199,Net Banking,Bengaluru
+T0369,C028,2026-01-02,P001,Wireless Mouse,Electronics,1,599,599,UPI,Tirupati
+T0370,C070,2026-02-02,P007,Coffee Mug,Home,1,199,199,UPI,Tirupati
+T0371,C024,2026-07-29,P008,Desk Lamp,Home,1,749,749,Card,Hyderabad
+T0372,C058,2026-07-15,P006,Backpack,Lifestyle,4,899,3596,Net Banking,Hyderabad
+T0373,C018,2026-10-04,P002,USB-C Cable,Electronics,2,249,498,Cash,Tirupati
+T0374,C068,2026-07-21,P003,Notebook,Stationery,4,79,316,Card,Chennai
+T0375,C060,2026-06-02,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Vijayawada
+T0376,C059,2026-05-07,P007,Coffee Mug,Home,2,199,398,Cash,Chennai
+T0377,C005,2026-02-27,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Vijayawada
+T0378,C013,2026-02-04,P001,Wireless Mouse,Electronics,1,599,599,UPI,Hyderabad
+T0379,C032,2026-01-25,P010,Sticky Notes,Stationery,2,99,198,UPI,Hyderabad
+T0380,C008,2026-04-22,P008,Desk Lamp,Home,1,749,749,Card,Vijayawada
+T0381,C041,2026-10-22,P005,Water Bottle,Lifestyle,1,299,299,Cash,Chennai
+T0382,C029,2026-09-24,P005,Water Bottle,Lifestyle,3,299,897,Net Banking,Bengaluru
+T0383,C055,2026-03-31,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Tirupati
+T0384,C068,2026-07-15,P006,Backpack,Lifestyle,3,899,2697,Cash,Hyderabad
+T0385,C024,2026-07-12,P007,Coffee Mug,Home,1,199,199,Net Banking,Chennai
+T0386,C060,2026-03-15,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Vijayawada
+T0387,C068,2026-10-13,P007,Coffee Mug,Home,4,199,796,Card,Hyderabad
+T0388,C011,2026-06-19,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Bengaluru
+T0389,C007,2026-04-08,P002,USB-C Cable,Electronics,1,249,249,Cash,Hyderabad
+T0390,C025,2026-02-07,P010,Sticky Notes,Stationery,2,99,198,Card,Hyderabad
+T0391,C039,2026-06-20,P004,Ball Pen Pack,Stationery,3,55,165,UPI,Chennai
+T0392,C062,2026-03-02,P004,Ball Pen Pack,Stationery,4,55,220,Card,Vijayawada
+T0393,C071,2026-05-03,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Bengaluru
+T0394,C040,2026-07-03,P007,Coffee Mug,Home,1,199,199,Cash,Bengaluru
+T0395,C013,2026-08-27,P009,Headphones,Electronics,3,1299,3897,Net Banking,Bengaluru
+T0396,C006,2026-07-31,P004,Ball Pen Pack,Stationery,1,55,55,Card,Chennai
+T0397,C075,2026-10-27,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Bengaluru
+T0398,C049,2026-04-28,P003,Notebook,Stationery,1,79,79,Card,Hyderabad
+T0399,C033,2026-06-22,P009,Headphones,Electronics,2,1299,2598,Net Banking,Hyderabad
+T0400,C022,2026-06-30,P008,Desk Lamp,Home,1,749,749,Card,Vijayawada
+T0401,C008,2026-10-05,P008,Desk Lamp,Home,1,749,749,UPI,Tirupati
+T0402,C018,2026-07-31,P001,Wireless Mouse,Electronics,2,599,1198,Card,Tirupati
+T0403,C059,2026-09-16,P003,Notebook,Stationery,1,79,79,Cash,Tirupati
+T0404,C063,2026-09-05,P010,Sticky Notes,Stationery,2,99,198,UPI,Tirupati
+T0405,C003,2026-01-07,P009,Headphones,Electronics,2,1299,2598,Cash,Vijayawada
+T0406,C023,2026-08-09,P005,Water Bottle,Lifestyle,1,299,299,UPI,Tirupati
+T0407,C080,2026-04-09,P009,Headphones,Electronics,1,1299,1299,Cash,Bengaluru
+T0408,C048,2026-02-10,P005,Water Bottle,Lifestyle,2,299,598,Net Banking,Hyderabad
+T0409,C039,2026-04-26,P010,Sticky Notes,Stationery,1,99,99,UPI,Tirupati
+T0410,C071,2026-07-13,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Tirupati
+T0411,C064,2026-02-12,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Bengaluru
+T0412,C068,2026-02-18,P010,Sticky Notes,Stationery,4,99,396,UPI,Chennai
+T0413,C061,2026-10-18,P004,Ball Pen Pack,Stationery,3,55,165,Cash,Tirupati
+T0414,C070,2026-05-24,P002,USB-C Cable,Electronics,2,249,498,UPI,Chennai
+T0415,C076,2026-04-17,P006,Backpack,Lifestyle,1,899,899,Card,Hyderabad
+T0416,C031,2026-10-16,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Vijayawada
+T0417,C011,2026-03-13,P006,Backpack,Lifestyle,1,899,899,Cash,Tirupati
+T0418,C044,2026-02-08,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Bengaluru
+T0419,C063,2026-08-19,P001,Wireless Mouse,Electronics,2,599,1198,Card,Bengaluru
+T0420,C024,2026-08-10,P009,Headphones,Electronics,3,1299,3897,Net Banking,Tirupati
+T0421,C010,2026-05-07,P010,Sticky Notes,Stationery,1,99,99,UPI,Bengaluru
+T0422,C050,2026-03-20,P003,Notebook,Stationery,1,79,79,Cash,Bengaluru
+T0423,C057,2026-06-07,P002,USB-C Cable,Electronics,1,249,249,Cash,Bengaluru
+T0424,C056,2026-04-06,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Vijayawada
+T0425,C004,2026-02-22,P009,Headphones,Electronics,1,1299,1299,UPI,Bengaluru
+T0426,C050,2026-06-16,P009,Headphones,Electronics,1,1299,1299,UPI,Bengaluru
+T0427,C072,2026-02-13,P007,Coffee Mug,Home,1,199,199,Card,Vijayawada
+T0428,C022,2026-07-14,P009,Headphones,Electronics,1,1299,1299,Card,Bengaluru
+T0429,C009,2026-03-16,P005,Water Bottle,Lifestyle,1,299,299,Card,Hyderabad
+T0430,C010,2026-09-05,P005,Water Bottle,Lifestyle,1,299,299,Cash,Bengaluru
+T0431,C077,2026-09-11,P004,Ball Pen Pack,Stationery,2,55,110,Card,Hyderabad
+T0432,C051,2026-01-04,P002,USB-C Cable,Electronics,1,249,249,Cash,Vijayawada
+T0433,C057,2026-06-18,P007,Coffee Mug,Home,2,199,398,Cash,Hyderabad
+T0434,C078,2026-06-14,P010,Sticky Notes,Stationery,1,99,99,Card,Hyderabad
+T0435,C041,2026-07-23,P006,Backpack,Lifestyle,1,899,899,Cash,Hyderabad
+T0436,C049,2026-06-16,P010,Sticky Notes,Stationery,2,99,198,Cash,Hyderabad
+T0437,C026,2026-10-16,P006,Backpack,Lifestyle,1,899,899,Card,Vijayawada
+T0438,C027,2026-08-25,P001,Wireless Mouse,Electronics,4,599,2396,Net Banking,Bengaluru
+T0439,C064,2026-07-29,P002,USB-C Cable,Electronics,2,249,498,Card,Bengaluru
+T0440,C055,2026-03-20,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Tirupati
+T0441,C075,2026-09-03,P008,Desk Lamp,Home,4,749,2996,Net Banking,Vijayawada
+T0442,C070,2026-08-03,P009,Headphones,Electronics,3,1299,3897,UPI,Bengaluru
+T0443,C014,2026-02-13,P009,Headphones,Electronics,2,1299,2598,Card,Bengaluru
+T0444,C073,2026-01-23,P003,Notebook,Stationery,2,79,158,Net Banking,Bengaluru
+T0445,C034,2026-02-20,P007,Coffee Mug,Home,1,199,199,Card,Vijayawada
+T0446,C029,2026-10-22,P009,Headphones,Electronics,2,1299,2598,Net Banking,Bengaluru
+T0447,C020,2026-09-14,P007,Coffee Mug,Home,1,199,199,Cash,Tirupati
+T0448,C011,2026-08-01,P008,Desk Lamp,Home,1,749,749,UPI,Chennai
+T0449,C027,2026-08-22,P006,Backpack,Lifestyle,1,899,899,Net Banking,Bengaluru
+T0450,C041,2026-08-20,P008,Desk Lamp,Home,1,749,749,UPI,Bengaluru
+T0451,C003,2026-02-28,P001,Wireless Mouse,Electronics,2,599,1198,Cash,Tirupati
+T0452,C067,2026-05-05,P003,Notebook,Stationery,3,79,237,Card,Vijayawada
+T0453,C060,2026-08-07,P003,Notebook,Stationery,1,79,79,Card,Hyderabad
+T0454,C051,2026-08-10,P003,Notebook,Stationery,1,79,79,UPI,Vijayawada
+T0455,C050,2026-08-08,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Chennai
+T0456,C074,2026-02-02,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Vijayawada
+T0457,C059,2026-04-11,P003,Notebook,Stationery,1,79,79,UPI,Bengaluru
+T0458,C077,2026-06-10,P008,Desk Lamp,Home,1,749,749,Net Banking,Vijayawada
+T0459,C046,2026-06-28,P007,Coffee Mug,Home,2,199,398,Net Banking,Vijayawada
+T0460,C079,2026-06-02,P003,Notebook,Stationery,2,79,158,UPI,Chennai
+T0461,C015,2026-06-06,P006,Backpack,Lifestyle,1,899,899,Card,Bengaluru
+T0462,C077,2026-08-03,P003,Notebook,Stationery,1,79,79,Card,Vijayawada
+T0463,C069,2026-09-07,P007,Coffee Mug,Home,1,199,199,Card,Vijayawada
+T0464,C024,2026-03-13,P003,Notebook,Stationery,1,79,79,Cash,Hyderabad
+T0465,C002,2026-07-03,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Chennai
+T0466,C065,2026-10-15,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Hyderabad
+T0467,C063,2026-08-16,P008,Desk Lamp,Home,1,749,749,Card,Tirupati
+T0468,C038,2026-04-23,P010,Sticky Notes,Stationery,1,99,99,UPI,Bengaluru
+T0469,C059,2026-03-28,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Vijayawada
+T0470,C035,2026-02-28,P009,Headphones,Electronics,1,1299,1299,Cash,Vijayawada
+T0471,C070,2026-08-14,P001,Wireless Mouse,Electronics,2,599,1198,Card,Hyderabad
+T0472,C039,2026-05-07,P002,USB-C Cable,Electronics,2,249,498,UPI,Hyderabad
+T0473,C057,2026-02-14,P005,Water Bottle,Lifestyle,1,299,299,UPI,Chennai
+T0474,C079,2026-06-29,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Chennai
+T0475,C027,2026-04-16,P010,Sticky Notes,Stationery,1,99,99,UPI,Vijayawada
+T0476,C022,2026-10-03,P006,Backpack,Lifestyle,1,899,899,Cash,Bengaluru
+T0477,C013,2026-09-21,P005,Water Bottle,Lifestyle,2,299,598,Card,Hyderabad
+T0478,C017,2026-03-06,P001,Wireless Mouse,Electronics,4,599,2396,Card,Chennai
+T0479,C063,2026-07-21,P006,Backpack,Lifestyle,2,899,1798,Card,Vijayawada
+T0480,C058,2026-07-12,P005,Water Bottle,Lifestyle,2,299,598,UPI,Tirupati
+T0481,C048,2026-05-23,P007,Coffee Mug,Home,1,199,199,Net Banking,Hyderabad
+T0482,C059,2026-02-17,P006,Backpack,Lifestyle,2,899,1798,Cash,Tirupati
+T0483,C028,2026-08-08,P009,Headphones,Electronics,1,1299,1299,Net Banking,Bengaluru
+T0484,C071,2026-06-22,P006,Backpack,Lifestyle,2,899,1798,Card,Vijayawada
+T0485,C006,2026-01-25,P008,Desk Lamp,Home,2,749,1498,UPI,Hyderabad
+T0486,C057,2026-03-22,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Tirupati
+T0487,C039,2026-03-09,P007,Coffee Mug,Home,1,199,199,Card,Bengaluru
+T0488,C011,2026-05-09,P002,USB-C Cable,Electronics,2,249,498,Cash,Chennai
+T0489,C030,2026-06-06,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Tirupati
+T0490,C010,2026-09-02,P002,USB-C Cable,Electronics,1,249,249,Card,Vijayawada
+T0491,C002,2026-08-16,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Bengaluru
+T0492,C017,2026-08-05,P002,USB-C Cable,Electronics,4,249,996,Net Banking,Tirupati
+T0493,C014,2026-02-22,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Bengaluru
+T0494,C019,2026-03-10,P005,Water Bottle,Lifestyle,1,299,299,UPI,Vijayawada
+T0495,C057,2026-03-26,P010,Sticky Notes,Stationery,1,99,99,Cash,Chennai
+T0496,C028,2026-08-15,P003,Notebook,Stationery,3,79,237,UPI,Tirupati
+T0497,C045,2026-07-16,P003,Notebook,Stationery,2,79,158,Net Banking,Bengaluru
+T0498,C032,2026-02-13,P003,Notebook,Stationery,1,79,79,Cash,Tirupati
+T0499,C025,2026-09-18,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Bengaluru
+T0500,C064,2026-05-03,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Tirupati
+T0501,C068,2026-02-06,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Bengaluru
+T0502,C054,2026-10-19,P006,Backpack,Lifestyle,1,899,899,Cash,Vijayawada
+T0503,C003,2026-02-07,P003,Notebook,Stationery,2,79,158,UPI,Tirupati
+T0504,C051,2026-01-31,P005,Water Bottle,Lifestyle,1,299,299,Cash,Vijayawada
+T0505,C011,2026-07-25,P007,Coffee Mug,Home,1,199,199,Card,Bengaluru
+T0506,C027,2026-09-19,P002,USB-C Cable,Electronics,1,249,249,Card,Vijayawada
+T0507,C040,2026-02-03,P006,Backpack,Lifestyle,1,899,899,Net Banking,Chennai
+T0508,C015,2026-08-11,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Vijayawada
+T0509,C016,2026-03-31,P010,Sticky Notes,Stationery,1,99,99,UPI,Chennai
+T0510,C067,2026-06-27,P001,Wireless Mouse,Electronics,1,599,599,Cash,Chennai
+T0511,C016,2026-05-18,P006,Backpack,Lifestyle,1,899,899,UPI,Bengaluru
+T0512,C034,2026-02-02,P007,Coffee Mug,Home,1,199,199,UPI,Hyderabad
+T0513,C064,2026-01-29,P008,Desk Lamp,Home,1,749,749,Card,Bengaluru
+T0514,C074,2026-02-22,P003,Notebook,Stationery,1,79,79,UPI,Chennai
+T0515,C032,2026-01-07,P009,Headphones,Electronics,1,1299,1299,UPI,Hyderabad
+T0516,C023,2026-03-18,P006,Backpack,Lifestyle,1,899,899,UPI,Vijayawada
+T0517,C054,2026-05-08,P007,Coffee Mug,Home,1,199,199,Cash,Bengaluru
+T0518,C065,2026-03-03,P002,USB-C Cable,Electronics,2,249,498,UPI,Chennai
+T0519,C052,2026-01-24,P004,Ball Pen Pack,Stationery,2,55,110,UPI,Hyderabad
+T0520,C042,2026-06-09,P005,Water Bottle,Lifestyle,2,299,598,UPI,Vijayawada
+T0521,C038,2026-04-13,P008,Desk Lamp,Home,1,749,749,Cash,Vijayawada
+T0522,C026,2026-09-10,P004,Ball Pen Pack,Stationery,1,55,55,Card,Chennai
+T0523,C030,2026-01-13,P001,Wireless Mouse,Electronics,3,599,1797,Cash,Tirupati
+T0524,C040,2026-07-12,P006,Backpack,Lifestyle,1,899,899,UPI,Chennai
+T0525,C063,2026-08-03,P009,Headphones,Electronics,4,1299,5196,UPI,Chennai
+T0526,C067,2026-04-29,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Bengaluru
+T0527,C075,2026-02-13,P008,Desk Lamp,Home,4,749,2996,UPI,Vijayawada
+T0528,C010,2026-07-21,P003,Notebook,Stationery,2,79,158,UPI,Hyderabad
+T0529,C041,2026-05-14,P003,Notebook,Stationery,1,79,79,Net Banking,Bengaluru
+T0530,C010,2026-04-30,P006,Backpack,Lifestyle,1,899,899,Card,Chennai
+T0531,C022,2026-02-24,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Hyderabad
+T0532,C046,2026-10-02,P006,Backpack,Lifestyle,1,899,899,Card,Hyderabad
+T0533,C012,2026-03-03,P005,Water Bottle,Lifestyle,1,299,299,Card,Bengaluru
+T0534,C019,2026-06-17,P010,Sticky Notes,Stationery,1,99,99,UPI,Chennai
+T0535,C039,2026-01-26,P006,Backpack,Lifestyle,1,899,899,Cash,Chennai
+T0536,C072,2026-08-20,P001,Wireless Mouse,Electronics,4,599,2396,Card,Tirupati
+T0537,C016,2026-03-13,P008,Desk Lamp,Home,1,749,749,UPI,Tirupati
+T0538,C048,2026-07-25,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Vijayawada
+T0539,C003,2026-02-08,P010,Sticky Notes,Stationery,1,99,99,UPI,Chennai
+T0540,C043,2026-02-17,P008,Desk Lamp,Home,2,749,1498,UPI,Tirupati
+T0541,C056,2026-10-21,P008,Desk Lamp,Home,1,749,749,Net Banking,Hyderabad
+T0542,C023,2026-08-07,P001,Wireless Mouse,Electronics,1,599,599,Cash,Chennai
+T0543,C020,2026-08-17,P003,Notebook,Stationery,1,79,79,UPI,Vijayawada
+T0544,C064,2026-06-01,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Vijayawada
+T0545,C050,2026-05-24,P008,Desk Lamp,Home,1,749,749,Card,Hyderabad
+T0546,C032,2026-09-27,P004,Ball Pen Pack,Stationery,2,55,110,UPI,Hyderabad
+T0547,C045,2026-09-06,P006,Backpack,Lifestyle,1,899,899,Cash,Hyderabad
+T0548,C077,2026-06-13,P005,Water Bottle,Lifestyle,1,299,299,Card,Tirupati
+T0549,C068,2026-08-30,P005,Water Bottle,Lifestyle,1,299,299,Cash,Vijayawada
+T0550,C032,2026-02-21,P004,Ball Pen Pack,Stationery,4,55,220,Card,Bengaluru
+T0551,C029,2026-01-29,P009,Headphones,Electronics,2,1299,2598,Net Banking,Bengaluru
+T0552,C046,2026-06-12,P003,Notebook,Stationery,1,79,79,UPI,Bengaluru
+T0553,C025,2026-10-16,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Vijayawada
+T0554,C012,2026-01-20,P005,Water Bottle,Lifestyle,1,299,299,UPI,Chennai
+T0555,C062,2026-09-27,P010,Sticky Notes,Stationery,1,99,99,UPI,Bengaluru
+T0556,C044,2026-03-08,P010,Sticky Notes,Stationery,1,99,99,Card,Bengaluru
+T0557,C015,2026-03-14,P001,Wireless Mouse,Electronics,1,599,599,Cash,Tirupati
+T0558,C076,2026-07-22,P006,Backpack,Lifestyle,2,899,1798,UPI,Bengaluru
+T0559,C056,2026-03-22,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Bengaluru
+T0560,C079,2026-10-15,P003,Notebook,Stationery,2,79,158,Cash,Chennai
+T0561,C040,2026-07-13,P010,Sticky Notes,Stationery,2,99,198,Cash,Chennai
+T0562,C051,2026-10-21,P003,Notebook,Stationery,2,79,158,UPI,Chennai
+T0563,C073,2026-04-24,P010,Sticky Notes,Stationery,1,99,99,UPI,Hyderabad
+T0564,C031,2026-02-09,P003,Notebook,Stationery,1,79,79,Cash,Bengaluru
+T0565,C043,2026-02-15,P003,Notebook,Stationery,2,79,158,Net Banking,Tirupati
+T0566,C045,2026-02-04,P005,Water Bottle,Lifestyle,1,299,299,Cash,Tirupati
+T0567,C054,2026-08-13,P001,Wireless Mouse,Electronics,1,599,599,Card,Hyderabad
+T0568,C070,2026-06-29,P008,Desk Lamp,Home,3,749,2247,Net Banking,Tirupati
+T0569,C029,2026-10-23,P008,Desk Lamp,Home,2,749,1498,Card,Hyderabad
+T0570,C038,2026-01-18,P002,USB-C Cable,Electronics,2,249,498,UPI,Bengaluru
+T0571,C044,2026-02-07,P005,Water Bottle,Lifestyle,4,299,1196,Card,Hyderabad
+T0572,C012,2026-10-08,P003,Notebook,Stationery,2,79,158,Cash,Vijayawada
+T0573,C056,2026-01-16,P010,Sticky Notes,Stationery,3,99,297,Card,Vijayawada
+T0574,C043,2026-02-21,P007,Coffee Mug,Home,1,199,199,Card,Chennai
+T0575,C034,2026-10-04,P007,Coffee Mug,Home,2,199,398,Cash,Bengaluru
+T0576,C074,2026-07-21,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Chennai
+T0577,C012,2026-08-07,P001,Wireless Mouse,Electronics,1,599,599,Cash,Vijayawada
+T0578,C027,2026-01-14,P008,Desk Lamp,Home,1,749,749,Card,Bengaluru
+T0579,C040,2026-03-01,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Hyderabad
+T0580,C012,2026-05-16,P008,Desk Lamp,Home,3,749,2247,Net Banking,Chennai
+T0581,C024,2026-07-09,P006,Backpack,Lifestyle,3,899,2697,Net Banking,Tirupati
+T0582,C029,2026-05-15,P005,Water Bottle,Lifestyle,1,299,299,Cash,Vijayawada
+T0583,C011,2026-02-19,P001,Wireless Mouse,Electronics,1,599,599,Cash,Vijayawada
+T0584,C071,2026-04-27,P007,Coffee Mug,Home,4,199,796,UPI,Hyderabad
+T0585,C061,2026-10-02,P009,Headphones,Electronics,1,1299,1299,Card,Hyderabad
+T0586,C065,2026-01-18,P005,Water Bottle,Lifestyle,1,299,299,Card,Tirupati
+T0587,C028,2026-03-27,P008,Desk Lamp,Home,1,749,749,Card,Chennai
+T0588,C026,2026-08-11,P001,Wireless Mouse,Electronics,1,599,599,Card,Vijayawada
+T0589,C012,2026-02-04,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Vijayawada
+T0590,C067,2026-05-22,P007,Coffee Mug,Home,2,199,398,Net Banking,Tirupati
+T0591,C015,2026-08-03,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Chennai
+T0592,C013,2026-10-26,P003,Notebook,Stationery,2,79,158,UPI,Vijayawada
+T0593,C045,2026-10-02,P002,USB-C Cable,Electronics,2,249,498,Net Banking,Bengaluru
+T0594,C078,2026-10-20,P007,Coffee Mug,Home,2,199,398,Net Banking,Tirupati
+T0595,C080,2026-03-15,P003,Notebook,Stationery,1,79,79,Net Banking,Tirupati
+T0596,C031,2026-06-19,P007,Coffee Mug,Home,3,199,597,UPI,Hyderabad
+T0597,C044,2026-01-11,P005,Water Bottle,Lifestyle,3,299,897,Cash,Bengaluru
+T0598,C030,2026-02-20,P005,Water Bottle,Lifestyle,3,299,897,Card,Bengaluru
+T0599,C035,2026-06-14,P008,Desk Lamp,Home,2,749,1498,Net Banking,Vijayawada
+T0600,C053,2026-04-19,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Vijayawada
+T0601,C021,2026-09-21,P006,Backpack,Lifestyle,2,899,1798,UPI,Bengaluru
+T0602,C073,2026-09-26,P009,Headphones,Electronics,1,1299,1299,UPI,Chennai
+T0603,C008,2026-04-13,P004,Ball Pen Pack,Stationery,3,55,165,Card,Tirupati
+T0604,C026,2026-07-04,P008,Desk Lamp,Home,1,749,749,Cash,Bengaluru
+T0605,C004,2026-03-05,P008,Desk Lamp,Home,1,749,749,Card,Bengaluru
+T0606,C061,2026-04-01,P008,Desk Lamp,Home,2,749,1498,Cash,Bengaluru
+T0607,C012,2026-05-13,P003,Notebook,Stationery,3,79,237,Cash,Tirupati
+T0608,C028,2026-10-20,P007,Coffee Mug,Home,1,199,199,Card,Chennai
+T0609,C066,2026-07-29,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Tirupati
+T0610,C077,2026-03-30,P008,Desk Lamp,Home,3,749,2247,UPI,Chennai
+T0611,C036,2026-06-06,P005,Water Bottle,Lifestyle,2,299,598,Net Banking,Hyderabad
+T0612,C060,2026-04-22,P006,Backpack,Lifestyle,1,899,899,Cash,Vijayawada
+T0613,C001,2026-02-22,P010,Sticky Notes,Stationery,1,99,99,Cash,Vijayawada
+T0614,C014,2026-06-02,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Tirupati
+T0615,C036,2026-06-16,P006,Backpack,Lifestyle,4,899,3596,Cash,Bengaluru
+T0616,C008,2026-05-04,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Bengaluru
+T0617,C038,2026-09-12,P003,Notebook,Stationery,2,79,158,Cash,Hyderabad
+T0618,C075,2026-01-19,P007,Coffee Mug,Home,1,199,199,Card,Bengaluru
+T0619,C046,2026-09-01,P004,Ball Pen Pack,Stationery,2,55,110,Cash,Chennai
+T0620,C061,2026-02-19,P009,Headphones,Electronics,1,1299,1299,Card,Bengaluru
+T0621,C043,2026-04-04,P009,Headphones,Electronics,2,1299,2598,UPI,Chennai
+T0622,C054,2026-06-07,P006,Backpack,Lifestyle,1,899,899,Cash,Bengaluru
+T0623,C016,2026-08-26,P005,Water Bottle,Lifestyle,2,299,598,Net Banking,Tirupati
+T0624,C061,2026-02-06,P010,Sticky Notes,Stationery,2,99,198,Card,Vijayawada
+T0625,C068,2026-07-15,P002,USB-C Cable,Electronics,3,249,747,Cash,Hyderabad
+T0626,C018,2026-03-19,P001,Wireless Mouse,Electronics,3,599,1797,Card,Bengaluru
+T0627,C019,2026-08-23,P007,Coffee Mug,Home,4,199,796,Cash,Chennai
+T0628,C041,2026-04-01,P002,USB-C Cable,Electronics,1,249,249,UPI,Tirupati
+T0629,C074,2026-03-28,P008,Desk Lamp,Home,1,749,749,Card,Hyderabad
+T0630,C055,2026-08-11,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Hyderabad
+T0631,C069,2026-01-20,P008,Desk Lamp,Home,1,749,749,Card,Bengaluru
+T0632,C025,2026-09-29,P001,Wireless Mouse,Electronics,3,599,1797,UPI,Tirupati
+T0633,C040,2026-06-26,P004,Ball Pen Pack,Stationery,1,55,55,Card,Tirupati
+T0634,C022,2026-06-06,P007,Coffee Mug,Home,1,199,199,UPI,Tirupati
+T0635,C067,2026-08-22,P005,Water Bottle,Lifestyle,3,299,897,Cash,Hyderabad
+T0636,C046,2026-09-08,P003,Notebook,Stationery,1,79,79,Card,Chennai
+T0637,C017,2026-04-25,P007,Coffee Mug,Home,1,199,199,Card,Tirupati
+T0638,C047,2026-03-05,P010,Sticky Notes,Stationery,1,99,99,UPI,Hyderabad
+T0639,C077,2026-01-25,P005,Water Bottle,Lifestyle,2,299,598,UPI,Tirupati
+T0640,C054,2026-03-01,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Hyderabad
+T0641,C020,2026-08-31,P002,USB-C Cable,Electronics,1,249,249,Card,Tirupati
+T0642,C067,2026-02-21,P005,Water Bottle,Lifestyle,1,299,299,Cash,Vijayawada
+T0643,C014,2026-08-03,P010,Sticky Notes,Stationery,2,99,198,UPI,Bengaluru
+T0644,C026,2026-09-12,P002,USB-C Cable,Electronics,2,249,498,Card,Bengaluru
+T0645,C053,2026-07-03,P009,Headphones,Electronics,4,1299,5196,Cash,Chennai
+T0646,C062,2026-04-17,P001,Wireless Mouse,Electronics,1,599,599,Cash,Chennai
+T0647,C015,2026-02-15,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Chennai
+T0648,C013,2026-02-08,P002,USB-C Cable,Electronics,2,249,498,Cash,Chennai
+T0649,C034,2026-06-01,P008,Desk Lamp,Home,4,749,2996,Net Banking,Tirupati
+T0650,C038,2026-01-21,P002,USB-C Cable,Electronics,2,249,498,Cash,Bengaluru
+T0651,C006,2026-02-18,P007,Coffee Mug,Home,2,199,398,UPI,Chennai
+T0652,C080,2026-08-13,P003,Notebook,Stationery,1,79,79,Cash,Tirupati
+T0653,C015,2026-04-04,P006,Backpack,Lifestyle,2,899,1798,Net Banking,Hyderabad
+T0654,C062,2026-07-17,P008,Desk Lamp,Home,1,749,749,Net Banking,Chennai
+T0655,C021,2026-01-31,P002,USB-C Cable,Electronics,1,249,249,UPI,Hyderabad
+T0656,C057,2026-10-19,P010,Sticky Notes,Stationery,1,99,99,Card,Vijayawada
+T0657,C017,2026-01-15,P007,Coffee Mug,Home,2,199,398,Net Banking,Hyderabad
+T0658,C006,2026-08-14,P002,USB-C Cable,Electronics,3,249,747,UPI,Bengaluru
+T0659,C074,2026-09-26,P006,Backpack,Lifestyle,1,899,899,Card,Bengaluru
+T0660,C056,2026-02-18,P009,Headphones,Electronics,1,1299,1299,Card,Hyderabad
+T0661,C020,2026-07-17,P006,Backpack,Lifestyle,2,899,1798,UPI,Tirupati
+T0662,C064,2026-08-29,P003,Notebook,Stationery,1,79,79,Card,Tirupati
+T0663,C036,2026-06-19,P008,Desk Lamp,Home,1,749,749,UPI,Vijayawada
+T0664,C052,2026-07-13,P004,Ball Pen Pack,Stationery,2,55,110,Card,Tirupati
+T0665,C058,2026-10-21,P008,Desk Lamp,Home,1,749,749,UPI,Hyderabad
+T0666,C003,2026-09-12,P008,Desk Lamp,Home,1,749,749,UPI,Hyderabad
+T0667,C001,2026-10-09,P007,Coffee Mug,Home,1,199,199,UPI,Vijayawada
+T0668,C072,2026-09-18,P010,Sticky Notes,Stationery,2,99,198,Card,Hyderabad
+T0669,C029,2026-01-28,P006,Backpack,Lifestyle,1,899,899,Net Banking,Bengaluru
+T0670,C047,2026-08-31,P009,Headphones,Electronics,2,1299,2598,Net Banking,Tirupati
+T0671,C001,2026-04-24,P002,USB-C Cable,Electronics,2,249,498,Cash,Bengaluru
+T0672,C014,2026-07-11,P005,Water Bottle,Lifestyle,1,299,299,UPI,Chennai
+T0673,C014,2026-07-29,P008,Desk Lamp,Home,1,749,749,Cash,Vijayawada
+T0674,C028,2026-07-21,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Chennai
+T0675,C006,2026-08-01,P006,Backpack,Lifestyle,1,899,899,UPI,Hyderabad
+T0676,C018,2026-09-16,P008,Desk Lamp,Home,2,749,1498,Net Banking,Tirupati
+T0677,C056,2026-10-11,P009,Headphones,Electronics,2,1299,2598,Net Banking,Vijayawada
+T0678,C017,2026-03-30,P003,Notebook,Stationery,2,79,158,UPI,Hyderabad
+T0679,C065,2026-06-14,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Hyderabad
+T0680,C036,2026-05-08,P010,Sticky Notes,Stationery,3,99,297,Net Banking,Bengaluru
+T0681,C018,2026-03-10,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Vijayawada
+T0682,C041,2026-10-08,P009,Headphones,Electronics,1,1299,1299,Card,Chennai
+T0683,C045,2026-05-29,P004,Ball Pen Pack,Stationery,2,55,110,Card,Chennai
+T0684,C015,2026-06-15,P009,Headphones,Electronics,1,1299,1299,Cash,Vijayawada
+T0685,C069,2026-08-02,P008,Desk Lamp,Home,2,749,1498,Cash,Hyderabad
+T0686,C049,2026-01-13,P001,Wireless Mouse,Electronics,1,599,599,Card,Tirupati
+T0687,C037,2026-03-24,P001,Wireless Mouse,Electronics,1,599,599,Cash,Chennai
+T0688,C027,2026-06-01,P001,Wireless Mouse,Electronics,2,599,1198,UPI,Bengaluru
+T0689,C029,2026-10-15,P008,Desk Lamp,Home,1,749,749,Net Banking,Chennai
+T0690,C007,2026-05-28,P009,Headphones,Electronics,2,1299,2598,Net Banking,Hyderabad
+T0691,C071,2026-06-10,P007,Coffee Mug,Home,4,199,796,UPI,Tirupati
+T0692,C029,2026-08-15,P005,Water Bottle,Lifestyle,1,299,299,Cash,Vijayawada
+T0693,C025,2026-04-11,P009,Headphones,Electronics,2,1299,2598,Cash,Hyderabad
+T0694,C024,2026-02-08,P003,Notebook,Stationery,4,79,316,Card,Vijayawada
+T0695,C036,2026-08-08,P002,USB-C Cable,Electronics,1,249,249,Cash,Chennai
+T0696,C001,2026-05-11,P003,Notebook,Stationery,2,79,158,Cash,Hyderabad
+T0697,C077,2026-06-15,P003,Notebook,Stationery,1,79,79,UPI,Vijayawada
+T0698,C071,2026-10-21,P005,Water Bottle,Lifestyle,1,299,299,Cash,Tirupati
+T0699,C067,2026-04-05,P006,Backpack,Lifestyle,1,899,899,UPI,Vijayawada
+T0700,C052,2026-10-02,P003,Notebook,Stationery,1,79,79,UPI,Bengaluru
+T0701,C043,2026-06-19,P004,Ball Pen Pack,Stationery,3,55,165,Cash,Bengaluru
+T0702,C061,2026-09-29,P004,Ball Pen Pack,Stationery,4,55,220,UPI,Tirupati
+T0703,C006,2026-05-05,P006,Backpack,Lifestyle,1,899,899,Cash,Hyderabad
+T0704,C037,2026-10-04,P002,USB-C Cable,Electronics,1,249,249,UPI,Vijayawada
+T0705,C058,2026-09-18,P006,Backpack,Lifestyle,1,899,899,Net Banking,Tirupati
+T0706,C042,2026-04-09,P005,Water Bottle,Lifestyle,3,299,897,UPI,Tirupati
+T0707,C069,2026-10-03,P003,Notebook,Stationery,4,79,316,UPI,Tirupati
+T0708,C055,2026-04-20,P004,Ball Pen Pack,Stationery,2,55,110,UPI,Chennai
+T0709,C010,2026-08-11,P009,Headphones,Electronics,2,1299,2598,Card,Tirupati
+T0710,C012,2026-01-20,P008,Desk Lamp,Home,2,749,1498,UPI,Tirupati
+T0711,C010,2026-10-13,P003,Notebook,Stationery,2,79,158,Card,Bengaluru
+T0712,C056,2026-07-27,P007,Coffee Mug,Home,1,199,199,Cash,Tirupati
+T0713,C001,2026-10-01,P007,Coffee Mug,Home,2,199,398,UPI,Vijayawada
+T0714,C046,2026-02-07,P001,Wireless Mouse,Electronics,2,599,1198,UPI,Bengaluru
+T0715,C057,2026-05-25,P005,Water Bottle,Lifestyle,2,299,598,Net Banking,Hyderabad
+T0716,C029,2026-10-01,P001,Wireless Mouse,Electronics,1,599,599,Card,Hyderabad
+T0717,C039,2026-03-15,P009,Headphones,Electronics,1,1299,1299,Cash,Tirupati
+T0718,C016,2026-03-14,P009,Headphones,Electronics,3,1299,3897,UPI,Tirupati
+T0719,C071,2026-10-03,P010,Sticky Notes,Stationery,2,99,198,UPI,Bengaluru
+T0720,C028,2026-06-26,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Vijayawada
+T0721,C079,2026-04-24,P003,Notebook,Stationery,1,79,79,Cash,Chennai
+T0722,C007,2026-10-18,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Vijayawada
+T0723,C033,2026-02-04,P002,USB-C Cable,Electronics,1,249,249,UPI,Chennai
+T0724,C046,2026-06-19,P010,Sticky Notes,Stationery,1,99,99,Card,Chennai
+T0725,C025,2026-02-05,P002,USB-C Cable,Electronics,1,249,249,Cash,Hyderabad
+T0726,C075,2026-06-06,P008,Desk Lamp,Home,1,749,749,Card,Vijayawada
+T0727,C055,2026-06-11,P010,Sticky Notes,Stationery,1,99,99,Card,Tirupati
+T0728,C056,2026-04-24,P006,Backpack,Lifestyle,1,899,899,Cash,Bengaluru
+T0729,C062,2026-06-19,P003,Notebook,Stationery,2,79,158,Net Banking,Hyderabad
+T0730,C071,2026-09-07,P006,Backpack,Lifestyle,2,899,1798,UPI,Chennai
+T0731,C018,2026-05-24,P010,Sticky Notes,Stationery,1,99,99,Card,Bengaluru
+T0732,C065,2026-01-10,P002,USB-C Cable,Electronics,2,249,498,UPI,Vijayawada
+T0733,C005,2026-04-19,P010,Sticky Notes,Stationery,1,99,99,Cash,Vijayawada
+T0734,C047,2026-03-18,P009,Headphones,Electronics,1,1299,1299,Net Banking,Chennai
+T0735,C018,2026-05-29,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Vijayawada
+T0736,C065,2026-07-06,P009,Headphones,Electronics,1,1299,1299,UPI,Chennai
+T0737,C018,2026-09-21,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Chennai
+T0738,C019,2026-10-17,P003,Notebook,Stationery,2,79,158,Net Banking,Bengaluru
+T0739,C030,2026-09-07,P001,Wireless Mouse,Electronics,1,599,599,UPI,Bengaluru
+T0740,C067,2026-04-16,P006,Backpack,Lifestyle,1,899,899,Cash,Hyderabad
+T0741,C006,2026-01-24,P008,Desk Lamp,Home,3,749,2247,Cash,Tirupati
+T0742,C034,2026-05-21,P009,Headphones,Electronics,2,1299,2598,Card,Hyderabad
+T0743,C067,2026-02-09,P007,Coffee Mug,Home,1,199,199,Cash,Hyderabad
+T0744,C045,2026-06-30,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Hyderabad
+T0745,C057,2026-03-13,P010,Sticky Notes,Stationery,1,99,99,Card,Chennai
+T0746,C028,2026-05-24,P002,USB-C Cable,Electronics,1,249,249,Card,Chennai
+T0747,C030,2026-03-02,P003,Notebook,Stationery,1,79,79,Net Banking,Bengaluru
+T0748,C062,2026-09-03,P002,USB-C Cable,Electronics,1,249,249,Card,Vijayawada
+T0749,C003,2026-07-30,P003,Notebook,Stationery,2,79,158,Card,Tirupati
+T0750,C018,2026-03-24,P003,Notebook,Stationery,2,79,158,UPI,Vijayawada
+T0751,C024,2026-05-13,P003,Notebook,Stationery,1,79,79,Net Banking,Vijayawada
+T0752,C011,2026-05-26,P010,Sticky Notes,Stationery,2,99,198,Card,Hyderabad
+T0753,C022,2026-09-04,P010,Sticky Notes,Stationery,4,99,396,Card,Hyderabad
+T0754,C024,2026-10-26,P010,Sticky Notes,Stationery,1,99,99,Cash,Chennai
+T0755,C030,2026-02-05,P006,Backpack,Lifestyle,3,899,2697,Net Banking,Hyderabad
+T0756,C067,2026-04-14,P003,Notebook,Stationery,1,79,79,Net Banking,Chennai
+T0757,C079,2026-09-01,P010,Sticky Notes,Stationery,1,99,99,UPI,Vijayawada
+T0758,C062,2026-02-17,P009,Headphones,Electronics,2,1299,2598,Card,Vijayawada
+T0759,C067,2026-08-09,P009,Headphones,Electronics,2,1299,2598,Net Banking,Bengaluru
+T0760,C030,2026-08-08,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Hyderabad
+T0761,C013,2026-10-22,P006,Backpack,Lifestyle,2,899,1798,Net Banking,Chennai
+T0762,C011,2026-04-30,P005,Water Bottle,Lifestyle,1,299,299,Cash,Vijayawada
+T0763,C001,2026-04-07,P009,Headphones,Electronics,1,1299,1299,UPI,Vijayawada
+T0764,C049,2026-01-04,P009,Headphones,Electronics,1,1299,1299,Card,Bengaluru
+T0765,C055,2026-03-21,P007,Coffee Mug,Home,1,199,199,Cash,Bengaluru
+T0766,C079,2026-07-07,P009,Headphones,Electronics,1,1299,1299,Cash,Hyderabad
+T0767,C062,2026-10-13,P004,Ball Pen Pack,Stationery,1,55,55,Card,Bengaluru
+T0768,C040,2026-05-10,P009,Headphones,Electronics,2,1299,2598,Cash,Hyderabad
+T0769,C030,2026-03-02,P003,Notebook,Stationery,3,79,237,Net Banking,Chennai
+T0770,C044,2026-07-25,P002,USB-C Cable,Electronics,1,249,249,UPI,Chennai
+T0771,C012,2026-01-03,P007,Coffee Mug,Home,4,199,796,Card,Hyderabad
+T0772,C034,2026-02-02,P010,Sticky Notes,Stationery,1,99,99,Card,Bengaluru
+T0773,C052,2026-07-16,P002,USB-C Cable,Electronics,2,249,498,Cash,Vijayawada
+T0774,C064,2026-03-31,P001,Wireless Mouse,Electronics,3,599,1797,Net Banking,Tirupati
+T0775,C037,2026-09-23,P004,Ball Pen Pack,Stationery,3,55,165,Card,Tirupati
+T0776,C079,2026-04-29,P010,Sticky Notes,Stationery,1,99,99,Card,Tirupati
+T0777,C021,2026-01-01,P006,Backpack,Lifestyle,1,899,899,UPI,Bengaluru
+T0778,C052,2026-07-22,P007,Coffee Mug,Home,1,199,199,Card,Vijayawada
+T0779,C012,2026-02-05,P001,Wireless Mouse,Electronics,2,599,1198,Cash,Vijayawada
+T0780,C029,2026-05-22,P010,Sticky Notes,Stationery,1,99,99,Card,Hyderabad
+T0781,C023,2026-05-14,P007,Coffee Mug,Home,2,199,398,Net Banking,Vijayawada
+T0782,C038,2026-09-15,P002,USB-C Cable,Electronics,2,249,498,Cash,Tirupati
+T0783,C074,2026-10-03,P009,Headphones,Electronics,4,1299,5196,Cash,Hyderabad
+T0784,C044,2026-05-05,P007,Coffee Mug,Home,2,199,398,Net Banking,Hyderabad
+T0785,C015,2026-09-04,P010,Sticky Notes,Stationery,3,99,297,Cash,Tirupati
+T0786,C030,2026-04-23,P007,Coffee Mug,Home,2,199,398,Cash,Hyderabad
+T0787,C034,2026-01-05,P006,Backpack,Lifestyle,1,899,899,Card,Bengaluru
+T0788,C010,2026-06-25,P002,USB-C Cable,Electronics,1,249,249,Card,Hyderabad
+T0789,C035,2026-10-21,P006,Backpack,Lifestyle,1,899,899,Card,Chennai
+T0790,C031,2026-05-01,P008,Desk Lamp,Home,2,749,1498,Cash,Chennai
+T0791,C080,2026-05-08,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Chennai
+T0792,C064,2026-02-10,P002,USB-C Cable,Electronics,1,249,249,UPI,Vijayawada
+T0793,C080,2026-07-10,P001,Wireless Mouse,Electronics,3,599,1797,Cash,Hyderabad
+T0794,C024,2026-09-09,P010,Sticky Notes,Stationery,3,99,297,Cash,Hyderabad
+T0795,C007,2026-03-07,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Hyderabad
+T0796,C051,2026-06-27,P009,Headphones,Electronics,1,1299,1299,Card,Hyderabad
+T0797,C041,2026-08-24,P002,USB-C Cable,Electronics,2,249,498,UPI,Tirupati
+T0798,C042,2026-02-21,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Vijayawada
+T0799,C031,2026-05-15,P005,Water Bottle,Lifestyle,1,299,299,Cash,Hyderabad
+T0800,C064,2026-04-05,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Chennai
+T0801,C047,2026-07-10,P007,Coffee Mug,Home,2,199,398,Net Banking,Bengaluru
+T0802,C074,2026-03-09,P008,Desk Lamp,Home,1,749,749,Card,Tirupati
+T0803,C056,2026-10-12,P005,Water Bottle,Lifestyle,2,299,598,Net Banking,Chennai
+T0804,C061,2026-03-18,P003,Notebook,Stationery,2,79,158,UPI,Chennai
+T0805,C069,2026-09-22,P007,Coffee Mug,Home,1,199,199,Cash,Hyderabad
+T0806,C007,2026-10-18,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Tirupati
+T0807,C061,2026-05-11,P003,Notebook,Stationery,1,79,79,UPI,Hyderabad
+T0808,C072,2026-07-04,P006,Backpack,Lifestyle,1,899,899,Cash,Bengaluru
+T0809,C078,2026-06-29,P001,Wireless Mouse,Electronics,1,599,599,Card,Vijayawada
+T0810,C023,2026-10-03,P010,Sticky Notes,Stationery,2,99,198,Cash,Bengaluru
+T0811,C058,2026-09-07,P006,Backpack,Lifestyle,2,899,1798,UPI,Hyderabad
+T0812,C022,2026-03-16,P010,Sticky Notes,Stationery,1,99,99,Cash,Hyderabad
+T0813,C011,2026-02-06,P010,Sticky Notes,Stationery,2,99,198,Card,Bengaluru
+T0814,C035,2026-05-30,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Bengaluru
+T0815,C076,2026-07-05,P008,Desk Lamp,Home,2,749,1498,Net Banking,Hyderabad
+T0816,C017,2026-01-12,P003,Notebook,Stationery,1,79,79,Card,Bengaluru
+T0817,C014,2026-07-23,P002,USB-C Cable,Electronics,1,249,249,UPI,Tirupati
+T0818,C051,2026-01-14,P008,Desk Lamp,Home,1,749,749,UPI,Tirupati
+T0819,C050,2026-02-13,P005,Water Bottle,Lifestyle,2,299,598,Cash,Chennai
+T0820,C017,2026-08-15,P004,Ball Pen Pack,Stationery,2,55,110,Card,Vijayawada
+T0821,C042,2026-07-02,P003,Notebook,Stationery,1,79,79,Net Banking,Hyderabad
+T0822,C057,2026-10-08,P009,Headphones,Electronics,3,1299,3897,Card,Vijayawada
+T0823,C073,2026-08-22,P003,Notebook,Stationery,2,79,158,Net Banking,Vijayawada
+T0824,C062,2026-06-27,P009,Headphones,Electronics,1,1299,1299,Card,Tirupati
+T0825,C034,2026-07-31,P008,Desk Lamp,Home,1,749,749,Card,Bengaluru
+T0826,C045,2026-03-11,P001,Wireless Mouse,Electronics,1,599,599,Cash,Hyderabad
+T0827,C062,2026-09-09,P009,Headphones,Electronics,1,1299,1299,Cash,Tirupati
+T0828,C001,2026-04-29,P007,Coffee Mug,Home,2,199,398,Cash,Chennai
+T0829,C051,2026-08-12,P007,Coffee Mug,Home,3,199,597,Card,Chennai
+T0830,C034,2026-04-23,P007,Coffee Mug,Home,2,199,398,UPI,Hyderabad
+T0831,C037,2026-05-20,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Hyderabad
+T0832,C018,2026-04-04,P004,Ball Pen Pack,Stationery,3,55,165,Cash,Tirupati
+T0833,C080,2026-05-20,P008,Desk Lamp,Home,2,749,1498,Net Banking,Chennai
+T0834,C069,2026-01-26,P006,Backpack,Lifestyle,1,899,899,UPI,Chennai
+T0835,C057,2026-03-06,P002,USB-C Cable,Electronics,1,249,249,UPI,Chennai
+T0836,C028,2026-09-10,P002,USB-C Cable,Electronics,1,249,249,Cash,Hyderabad
+T0837,C048,2026-09-13,P005,Water Bottle,Lifestyle,2,299,598,Net Banking,Tirupati
+T0838,C008,2026-03-16,P006,Backpack,Lifestyle,1,899,899,Cash,Hyderabad
+T0839,C025,2026-04-03,P002,USB-C Cable,Electronics,1,249,249,Cash,Hyderabad
+T0840,C050,2026-05-08,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Chennai
+T0841,C067,2026-02-18,P001,Wireless Mouse,Electronics,1,599,599,Card,Hyderabad
+T0842,C042,2026-06-09,P007,Coffee Mug,Home,2,199,398,Card,Tirupati
+T0843,C062,2026-05-10,P009,Headphones,Electronics,1,1299,1299,Cash,Chennai
+T0844,C015,2026-04-22,P006,Backpack,Lifestyle,3,899,2697,Card,Hyderabad
+T0845,C075,2026-05-22,P006,Backpack,Lifestyle,1,899,899,UPI,Hyderabad
+T0846,C075,2026-01-22,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Vijayawada
+T0847,C032,2026-02-15,P003,Notebook,Stationery,1,79,79,Card,Hyderabad
+T0848,C008,2026-06-23,P002,USB-C Cable,Electronics,2,249,498,UPI,Bengaluru
+T0849,C017,2026-02-24,P003,Notebook,Stationery,2,79,158,Net Banking,Chennai
+T0850,C057,2026-06-27,P006,Backpack,Lifestyle,4,899,3596,Card,Tirupati
+T0851,C033,2026-03-10,P007,Coffee Mug,Home,1,199,199,UPI,Hyderabad
+T0852,C063,2026-10-05,P008,Desk Lamp,Home,2,749,1498,Card,Vijayawada
+T0853,C060,2026-06-15,P003,Notebook,Stationery,1,79,79,Cash,Vijayawada
+T0854,C020,2026-09-29,P009,Headphones,Electronics,1,1299,1299,Net Banking,Bengaluru
+T0855,C001,2026-08-21,P005,Water Bottle,Lifestyle,1,299,299,Net Banking,Chennai
+T0856,C080,2026-07-06,P001,Wireless Mouse,Electronics,2,599,1198,Card,Bengaluru
+T0857,C050,2026-10-03,P002,USB-C Cable,Electronics,2,249,498,Card,Vijayawada
+T0858,C079,2026-03-20,P008,Desk Lamp,Home,2,749,1498,Cash,Bengaluru
+T0859,C013,2026-02-26,P007,Coffee Mug,Home,2,199,398,UPI,Tirupati
+T0860,C026,2026-01-17,P003,Notebook,Stationery,1,79,79,UPI,Hyderabad
+T0861,C050,2026-10-20,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Vijayawada
+T0862,C007,2026-05-12,P010,Sticky Notes,Stationery,2,99,198,Cash,Chennai
+T0863,C027,2026-01-07,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Tirupati
+T0864,C047,2026-02-01,P008,Desk Lamp,Home,2,749,1498,Net Banking,Bengaluru
+T0865,C068,2026-05-17,P001,Wireless Mouse,Electronics,2,599,1198,UPI,Tirupati
+T0866,C067,2026-04-21,P005,Water Bottle,Lifestyle,1,299,299,UPI,Tirupati
+T0867,C025,2026-04-08,P004,Ball Pen Pack,Stationery,1,55,55,Card,Vijayawada
+T0868,C054,2026-10-13,P003,Notebook,Stationery,2,79,158,UPI,Vijayawada
+T0869,C014,2026-08-07,P006,Backpack,Lifestyle,2,899,1798,Card,Chennai
+T0870,C021,2026-06-22,P009,Headphones,Electronics,1,1299,1299,Net Banking,Bengaluru
+T0871,C048,2026-06-16,P006,Backpack,Lifestyle,2,899,1798,Net Banking,Hyderabad
+T0872,C070,2026-10-16,P006,Backpack,Lifestyle,2,899,1798,Card,Hyderabad
+T0873,C047,2026-05-11,P009,Headphones,Electronics,3,1299,3897,Net Banking,Hyderabad
+T0874,C037,2026-01-18,P007,Coffee Mug,Home,1,199,199,UPI,Vijayawada
+T0875,C001,2026-06-04,P003,Notebook,Stationery,4,79,316,Cash,Chennai
+T0876,C036,2026-01-12,P004,Ball Pen Pack,Stationery,3,55,165,Card,Tirupati
+T0877,C018,2026-03-21,P001,Wireless Mouse,Electronics,1,599,599,Cash,Bengaluru
+T0878,C039,2026-05-12,P010,Sticky Notes,Stationery,1,99,99,UPI,Vijayawada
+T0879,C010,2026-04-22,P007,Coffee Mug,Home,2,199,398,Cash,Hyderabad
+T0880,C013,2026-10-23,P003,Notebook,Stationery,1,79,79,Cash,Tirupati
+T0881,C043,2026-01-29,P010,Sticky Notes,Stationery,1,99,99,Cash,Hyderabad
+T0882,C030,2026-03-03,P007,Coffee Mug,Home,3,199,597,UPI,Hyderabad
+T0883,C041,2026-01-22,P001,Wireless Mouse,Electronics,1,599,599,Card,Bengaluru
+T0884,C007,2026-03-20,P009,Headphones,Electronics,2,1299,2598,Net Banking,Hyderabad
+T0885,C029,2026-02-16,P010,Sticky Notes,Stationery,2,99,198,Net Banking,Bengaluru
+T0886,C011,2026-06-22,P007,Coffee Mug,Home,1,199,199,Net Banking,Vijayawada
+T0887,C011,2026-05-15,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Vijayawada
+T0888,C018,2026-03-08,P007,Coffee Mug,Home,2,199,398,Net Banking,Vijayawada
+T0889,C026,2026-10-20,P004,Ball Pen Pack,Stationery,1,55,55,Card,Chennai
+T0890,C042,2026-08-09,P002,USB-C Cable,Electronics,1,249,249,UPI,Tirupati
+T0891,C025,2026-06-28,P007,Coffee Mug,Home,1,199,199,Cash,Bengaluru
+T0892,C022,2026-06-06,P010,Sticky Notes,Stationery,2,99,198,Cash,Vijayawada
+T0893,C006,2026-08-14,P008,Desk Lamp,Home,2,749,1498,Card,Chennai
+T0894,C015,2026-02-13,P006,Backpack,Lifestyle,1,899,899,UPI,Chennai
+T0895,C002,2026-05-28,P010,Sticky Notes,Stationery,3,99,297,Cash,Tirupati
+T0896,C043,2026-01-12,P005,Water Bottle,Lifestyle,1,299,299,Card,Vijayawada
+T0897,C034,2026-09-25,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Vijayawada
+T0898,C049,2026-01-10,P003,Notebook,Stationery,2,79,158,UPI,Bengaluru
+T0899,C080,2026-04-13,P003,Notebook,Stationery,1,79,79,Cash,Tirupati
+T0900,C009,2026-01-05,P008,Desk Lamp,Home,2,749,1498,Net Banking,Bengaluru
+T0901,C038,2026-01-10,P006,Backpack,Lifestyle,3,899,2697,Net Banking,Chennai
+T0902,C041,2026-02-20,P007,Coffee Mug,Home,1,199,199,Net Banking,Vijayawada
+T0903,C065,2026-04-12,P009,Headphones,Electronics,1,1299,1299,Net Banking,Vijayawada
+T0904,C040,2026-09-29,P001,Wireless Mouse,Electronics,1,599,599,Cash,Hyderabad
+T0905,C045,2026-01-10,P007,Coffee Mug,Home,2,199,398,Cash,Bengaluru
+T0906,C036,2026-09-14,P005,Water Bottle,Lifestyle,1,299,299,UPI,Bengaluru
+T0907,C072,2026-01-16,P007,Coffee Mug,Home,3,199,597,Cash,Chennai
+T0908,C018,2026-07-21,P003,Notebook,Stationery,1,79,79,UPI,Hyderabad
+T0909,C054,2026-04-27,P009,Headphones,Electronics,4,1299,5196,Card,Vijayawada
+T0910,C078,2026-06-09,P003,Notebook,Stationery,1,79,79,Cash,Hyderabad
+T0911,C075,2026-03-12,P009,Headphones,Electronics,1,1299,1299,Card,Chennai
+T0912,C018,2026-09-26,P005,Water Bottle,Lifestyle,2,299,598,Net Banking,Chennai
+T0913,C009,2026-06-12,P010,Sticky Notes,Stationery,3,99,297,UPI,Chennai
+T0914,C004,2026-03-16,P006,Backpack,Lifestyle,3,899,2697,Cash,Hyderabad
+T0915,C020,2026-05-21,P007,Coffee Mug,Home,1,199,199,Card,Tirupati
+T0916,C078,2026-05-17,P003,Notebook,Stationery,1,79,79,Card,Vijayawada
+T0917,C046,2026-01-14,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Hyderabad
+T0918,C048,2026-08-29,P003,Notebook,Stationery,1,79,79,Card,Hyderabad
+T0919,C025,2026-03-25,P008,Desk Lamp,Home,1,749,749,Card,Tirupati
+T0920,C035,2026-01-08,P007,Coffee Mug,Home,2,199,398,Net Banking,Chennai
+T0921,C023,2026-02-03,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Vijayawada
+T0922,C032,2026-08-23,P008,Desk Lamp,Home,2,749,1498,Net Banking,Hyderabad
+T0923,C041,2026-07-14,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Vijayawada
+T0924,C005,2026-09-26,P010,Sticky Notes,Stationery,2,99,198,UPI,Hyderabad
+T0925,C032,2026-01-22,P008,Desk Lamp,Home,2,749,1498,Net Banking,Tirupati
+T0926,C025,2026-01-26,P009,Headphones,Electronics,1,1299,1299,Cash,Hyderabad
+T0927,C060,2026-05-27,P007,Coffee Mug,Home,3,199,597,Card,Hyderabad
+T0928,C067,2026-01-28,P005,Water Bottle,Lifestyle,2,299,598,Card,Hyderabad
+T0929,C015,2026-09-14,P008,Desk Lamp,Home,1,749,749,Card,Vijayawada
+T0930,C042,2026-07-31,P009,Headphones,Electronics,1,1299,1299,Net Banking,Tirupati
+T0931,C059,2026-04-14,P003,Notebook,Stationery,1,79,79,UPI,Bengaluru
+T0932,C016,2026-03-25,P006,Backpack,Lifestyle,2,899,1798,UPI,Tirupati
+T0933,C068,2026-02-13,P008,Desk Lamp,Home,2,749,1498,Net Banking,Vijayawada
+T0934,C071,2026-07-13,P010,Sticky Notes,Stationery,3,99,297,Net Banking,Tirupati
+T0935,C020,2026-10-17,P003,Notebook,Stationery,3,79,237,Card,Chennai
+T0936,C054,2026-01-27,P003,Notebook,Stationery,2,79,158,Cash,Bengaluru
+T0937,C016,2026-04-03,P008,Desk Lamp,Home,1,749,749,Card,Chennai
+T0938,C002,2026-05-10,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Hyderabad
+T0939,C078,2026-01-03,P008,Desk Lamp,Home,1,749,749,Net Banking,Chennai
+T0940,C059,2026-09-01,P004,Ball Pen Pack,Stationery,2,55,110,Net Banking,Hyderabad
+T0941,C032,2026-01-04,P002,USB-C Cable,Electronics,2,249,498,Cash,Vijayawada
+T0942,C007,2026-04-17,P009,Headphones,Electronics,2,1299,2598,Card,Chennai
+T0943,C019,2026-01-19,P001,Wireless Mouse,Electronics,2,599,1198,UPI,Vijayawada
+T0944,C007,2026-02-14,P010,Sticky Notes,Stationery,1,99,99,UPI,Hyderabad
+T0945,C079,2026-05-26,P003,Notebook,Stationery,1,79,79,Card,Hyderabad
+T0946,C012,2026-01-19,P010,Sticky Notes,Stationery,1,99,99,Cash,Bengaluru
+T0947,C055,2026-02-04,P006,Backpack,Lifestyle,3,899,2697,UPI,Bengaluru
+T0948,C043,2026-05-21,P008,Desk Lamp,Home,1,749,749,Net Banking,Vijayawada
+T0949,C014,2026-01-30,P004,Ball Pen Pack,Stationery,2,55,110,UPI,Hyderabad
+T0950,C055,2026-05-28,P010,Sticky Notes,Stationery,3,99,297,Cash,Bengaluru
+T0951,C017,2026-07-01,P009,Headphones,Electronics,2,1299,2598,Net Banking,Vijayawada
+T0952,C079,2026-04-03,P008,Desk Lamp,Home,1,749,749,Card,Bengaluru
+T0953,C060,2026-01-13,P004,Ball Pen Pack,Stationery,1,55,55,UPI,Chennai
+T0954,C006,2026-07-31,P010,Sticky Notes,Stationery,4,99,396,Cash,Bengaluru
+T0955,C002,2026-04-19,P009,Headphones,Electronics,2,1299,2598,Card,Bengaluru
+T0956,C039,2026-06-07,P005,Water Bottle,Lifestyle,2,299,598,Cash,Tirupati
+T0957,C051,2026-06-24,P002,USB-C Cable,Electronics,2,249,498,UPI,Chennai
+T0958,C062,2026-06-23,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Tirupati
+T0959,C069,2026-08-24,P003,Notebook,Stationery,1,79,79,Cash,Hyderabad
+T0960,C067,2026-01-29,P007,Coffee Mug,Home,3,199,597,Cash,Vijayawada
+T0961,C027,2026-01-10,P006,Backpack,Lifestyle,2,899,1798,Cash,Bengaluru
+T0962,C004,2026-05-24,P002,USB-C Cable,Electronics,4,249,996,Cash,Hyderabad
+T0963,C078,2026-10-20,P009,Headphones,Electronics,3,1299,3897,Net Banking,Chennai
+T0964,C041,2026-06-07,P010,Sticky Notes,Stationery,1,99,99,UPI,Bengaluru
+T0965,C048,2026-05-02,P007,Coffee Mug,Home,1,199,199,Net Banking,Bengaluru
+T0966,C015,2026-03-31,P004,Ball Pen Pack,Stationery,1,55,55,Cash,Tirupati
+T0967,C065,2026-08-16,P004,Ball Pen Pack,Stationery,3,55,165,UPI,Hyderabad
+T0968,C062,2026-06-24,P009,Headphones,Electronics,1,1299,1299,Cash,Bengaluru
+T0969,C067,2026-02-20,P003,Notebook,Stationery,2,79,158,Card,Chennai
+T0970,C015,2026-09-25,P001,Wireless Mouse,Electronics,1,599,599,UPI,Bengaluru
+T0971,C043,2026-02-14,P001,Wireless Mouse,Electronics,2,599,1198,Net Banking,Tirupati
+T0972,C003,2026-06-09,P002,USB-C Cable,Electronics,1,249,249,Cash,Chennai
+T0973,C036,2026-05-27,P006,Backpack,Lifestyle,1,899,899,Cash,Hyderabad
+T0974,C036,2026-03-22,P002,USB-C Cable,Electronics,1,249,249,UPI,Tirupati
+T0975,C027,2026-02-22,P010,Sticky Notes,Stationery,2,99,198,Cash,Vijayawada
+T0976,C074,2026-05-26,P006,Backpack,Lifestyle,1,899,899,Card,Chennai
+T0977,C070,2026-06-23,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Tirupati
+T0978,C014,2026-01-26,P003,Notebook,Stationery,1,79,79,Net Banking,Tirupati
+T0979,C077,2026-04-02,P002,USB-C Cable,Electronics,1,249,249,Net Banking,Vijayawada
+T0980,C069,2026-04-12,P006,Backpack,Lifestyle,1,899,899,UPI,Hyderabad
+T0981,C013,2026-08-28,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Bengaluru
+T0982,C019,2026-04-25,P008,Desk Lamp,Home,1,749,749,Cash,Bengaluru
+T0983,C042,2026-06-19,P007,Coffee Mug,Home,1,199,199,Net Banking,Hyderabad
+T0984,C045,2026-02-27,P001,Wireless Mouse,Electronics,1,599,599,Net Banking,Hyderabad
+T0985,C078,2026-06-28,P003,Notebook,Stationery,1,79,79,Card,Vijayawada
+T0986,C042,2026-02-24,P002,USB-C Cable,Electronics,1,249,249,UPI,Bengaluru
+T0987,C031,2026-07-31,P009,Headphones,Electronics,1,1299,1299,Card,Vijayawada
+T0988,C009,2026-07-16,P003,Notebook,Stationery,4,79,316,Cash,Chennai
+T0989,C073,2026-08-11,P010,Sticky Notes,Stationery,1,99,99,Cash,Vijayawada
+T0990,C074,2026-02-09,P004,Ball Pen Pack,Stationery,1,55,55,Net Banking,Tirupati
+T0991,C072,2026-06-16,P010,Sticky Notes,Stationery,2,99,198,UPI,Hyderabad
+T0992,C009,2026-07-27,P003,Notebook,Stationery,1,79,79,UPI,Vijayawada
+T0993,C012,2026-02-01,P007,Coffee Mug,Home,1,199,199,Card,Chennai
+T0994,C019,2026-01-01,P010,Sticky Notes,Stationery,3,99,297,Card,Hyderabad
+T0995,C058,2026-10-23,P009,Headphones,Electronics,1,1299,1299,Card,Chennai
+T0996,C056,2026-06-05,P006,Backpack,Lifestyle,1,899,899,Cash,Tirupati
+T0997,C052,2026-09-19,P010,Sticky Notes,Stationery,1,99,99,Card,Bengaluru
+T0998,C007,2026-10-09,P001,Wireless Mouse,Electronics,1,599,599,UPI,Vijayawada
+T0999,C004,2026-05-25,P006,Backpack,Lifestyle,1,899,899,Card,Hyderabad
+T1000,C049,2026-06-12,P010,Sticky Notes,Stationery,1,99,99,Net Banking,Hyderabad
